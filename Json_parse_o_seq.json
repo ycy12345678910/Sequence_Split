@@ -1,0 +1,1386 @@
+```markdown
+Table:1
+
+| Primer | sequence | SEQ ID NO:9 |
+| --- | --- | --- |
+| NKp44 KpnI | 5' GGCAGGGTACCCCAATCCAAGGCTCAGGTA 3' | SEQ ID NO:9 |
+| NKp44 KpnI DSF | 5' GGCAGGGTACCCTCTCCAGCCTCTGCCTCC 3' | SEQ ID NO:10 |
+| 44/46 end seq | 5' GCCGTCCACGTACCAGTTGAA 3' | SEQ ID NO:11 |
+| NKp44 BamHI DLR | 5' AAGGATCCGCTGGAGATAACCACAG 3' | SEQ ID NO:12 |
+```
+```markdown
+Table 2. Oligonucleotide sequences used for construction of the CDR-swap of murine 2H7 CDRs into a human framework in pVX4. Residues changed by each oligonucleotide are underlined.
+
+| Substitution | Oligonucleotide sequence |
+| --- | --- |
+| CDR-H1 | C TAC ACC TTC ACG AGC TAT AAC ATG CAC TGG GTC CG (SEQ ID NO.) |
+| CDR-H2A | G ATT AAT CCT GAC AAC GGC GAC ACG AGC TAT AAC CAG AAG TTC AAG GGC CG (SEQ ID NO.) |
+| CDR-H2B | GAA TGG GTT GCA GCG ATC TAT CCT GGC AAC GGC GAC AC (SEQ ID NO.) |
+| CDR-H3 | AT TAT TGT GCT CGA GTG GTC TAC TAT AGC AAC AGC TAC TGG TAC TTC GAC GTC TGG GGT CAA GGA (SEQ ID NO.) |
+| CDR-L1 | C TGC ACA GCC AGC TCT TCT GTC AGC TAT ATG CAT TG (SEQ ID NO.) |
+| CDR-L2 | AA CTA CTG ATT TAC GCT CCA TCG AAC CTC GCG TCT GGA GTC C (SEQ ID NO.) |
+| CDR-L3 | TAT TAC TGT CAA CAG TGG AGC TTC AAT CCG CCC ACA TTT GGA CAG (SEQ ID NO.) |
+```
+Table 3
+
+| Compound | Single Weekly Dose (mpk) | Daily weight gain in grams/day (d0-d11) (Avg. ± SEM) | % weight gain relative to daily hGH gain (Avg.) |
+| --- | --- | --- | --- |
+| hGH (un-pegylated) | 1.8 | 0.97 ± 0.12 | 39% |
+| 5K Linear PEG-ALD GH | 1.8 | 0.96 ± 0.27 | 36% |
+| 20K Linear PEG-ALD GH | 1.8 | 1.99 ± 0.13, 1.43 ± 0.08, 1.7 ± 0.10 | 73% |
+| 20K Linear CM-HBA PEG GH | 1.8 | 2.36 ± 0.11 | 99% |
+| 20K Linear PEG-HYD GH | 1.8 | 2.62 ± 0.22 | 99% |
+| 20K Branched PEG-ALD GH | 1.8 | 2.24 ± 0.07 | 87% |
+| 30K Linear PEG-ALD GH | 1.8 | 2.11 ± 0.06; 1.85 ± 0.14 | 94% |
+| 30K Linear PEG-SPA GH | 1.8 | 2.6 ± 0.1 | 117% |
+| 40K Branched PEG-ALD GH | 1.8 | 2.57 ± 0.08 | 100% |
+| 40K Branched PEG-NHS GH | 1.8 | 2.53 ± 0.09 | 121% |
+| 2x 20K PEG-ALD GH | 1.8 | 2.66 ± 0.10 | 128% |
+| 4-6x5K SPA-PEG GH | 1.8 | 3.18 ± 0.10 | 124% |
+| 2-4x5K CM-HBA-PEG GH | 1.8 | 3.54 ± 0.15 | 134% |
+| 2x 30K Linear PEG-SPA GH | 1.8 | 3.1 ± 0.1 | 134% |
+```markdown
+Table 2. The EC<sub>50</sub> value of the truncated Chemerin peptide
+
+| SEQ ID NO | Peptide (name and sequence) | Mean EC50 |
+|-----------|------------------------------|-----------|
+| 52        | Human prochemerin-25        | 160 ± 21 µM |
+| 53        | Human Chemerin-19           | 16.7 ± 3.2 nM |
+| 54        | Human [Lys20] Chemerin-19   | 170 µM     |
+| 55        | Human [ΔSer19] Chemerin-19  | 97 ± 13 nM  |
+| 56        | Human [ΔPhe18Ser19] Chemerin-19 | 220 µM     |
+| 57        | Human [ΔAla17Phe18Ser19] Chemerin-19 | 130 ± 10 µM |
+| 58        | Human [ΔPhe16Ala17Phe18Ser19] Chemerin-19 | inactif   |
+| 59        | Human Chemerin-7            | 220 ± 100 µM |
+| 60        | Human Chemerin-8            | 2 ± 1 µM   |
+```
+```markdown
+Table 1
+
+| Group 1 sequences: | Group 2 sequences: | Group 3 sequences: |
+|---|---|---|
+| >68992<br>LARCWGTAETNVS<br>>458726<br>LNETWAVQGSPYL<br>>531196<br>ICQVIQNEQPHAK<br>>555932<br>MLKLLNQKKGPSQ<br>>563127<br>TTDVRPISGSRPV<br>>1589132<br>FSTHRLPGCEPPC<br>>1770499<br>ITQIGETSCGFFK<br>>1841551<br>LHQWLETRPERQE<br>>3043558<br>LQNYIPAHSLTLS<br>>3273699<br>LQNYIPAQSLTLS<br>>5578773<br>LHQWLETRPDRQE<br>>9650982<br>FYLNWQDIPFLVQ<br>>10716076<br>ITRWWEDLERDFP<br>>12382258<br>IGEAWAKDSGLVR<br>>12407377<br>LHRNWAPGGGPFP<br>>12804833<br>FYLNWQDIPILTO<br>>13641902<br>FYLNWKDSPFLVQ<br>>14550508<br>LHQWLETRPNRQV<br>>14767571<br>FYLNWQDIPILTO<br>>15929862<br>LCLSWEAQSPAN<br>>17473078<br>LCLLWEDTLTPNC<br>>17490177<br>FYLNWQDMAVLAQ<br>>18544707<br>LSVSWKDLDDTFP<br>>18544711<br>IQQSWLDLQELFP<br>>18568011<br>LVSLSCHLDAELR<br>>20542331<br>LVLSYHLDTKVR<br>>20558231<br>LCLRWEEGQAPKG<br>>20561188<br>LCLCSEEGRAPMR<br>>20561198<br>FYFKWQDIPIFTQ<br>>21591223<br>IRRCWGQPEGPYA<br>>21752391<br>LLRSWEEHNTPLS<br>>22062211 | >29731<br>LTSWQESEGQG<br>>88547<br>ILRCLKVMGSY<br>>105146<br>ISQVGKGGGSV<br>>595911<br>MAALLSSSSPK<br>>862407<br>LTAWQESDGQG<br>>3157991<br>GLRLKKALHAC<br>>3327136<br>VRGRYEARQRK<br>>4959421<br>LAAWQHSDSQT<br>>5304869<br>LQECLKPKKPV<br>>6815251<br>LDRSFRAQVFS<br>>7020569<br>IATSLKNNKWT<br>>7023699<br>VKTRYDTRQRK<br>>7582298<br>ANKICEKRTPS<br>>10047173<br>LRAWFASEQMI<br>>13543372<br>LAQLADGGRVR<br>>15667627<br>LQRSFKAQVFS<br>>16549336<br>FQSTVEKASLC<br>>21693128<br>AQRAADAAGPG<br>>21739151<br>ANRICEKSEPE<br>>22047436<br>GLRLKRQARAC<br>>296064<br>IVTALRSGNKE<br>>1785643<br>IITALRSGNKE<br>>6468773<br>FLTAMRESGAH<br>>10439688<br>AILHEKKGDKM<br>>15530305<br>LQPCLQVPSPL<br>>21758656<br>ANLYDKVGYKV<br>>1089848<br>VDLLFVRGAGN | >6856967<br>IDKWSDRHRN<br>>2274982<br>ALQHFRTTPR<br>>3170653<br>ITAWCSSKAE<br>>3327106<br>INEWMKRKIE<br>>7159799<br>VKGASWLGKR<br>>10434127<br>INQHLMNNKD<br>>10439066<br>LERCCLDHNAK<br>>14532913<br>ALEHFRAATPR<br>>21105537<br>IHQSLLEDNNR<br>>21758720<br>MTLWFNREKT<br>>285933<br>IVRYLETNKY<br>>291873<br>IVRYLETSKY<br>>2440074<br>LVKYLEENNT<br>>4566495<br>VQEWSKNKAE<br>>7023051<br>YSGWMERSSL<br>>8895212<br>IRKFLSYKTQ<br>>13436326<br>IVKYLQTSKY<br>>13537206<br>IVRHFYYSNR<br>>19548926<br>INKAMSYKPI<br>>21750593<br>ITRALQVKKA<br>>15928896<br>RIQESNGTWR<br>>1843401<br>LRDSLKNANT<br>>22046032<br>LRDSLKNANT |
+```
+```markdown
+Table 2.
+
+| Compound ID | CAS number | Structure | MW | ref |
+|-------------|------------|-----------|----|-----|
+| 5317140     | 38307-83-4 | ![](https://i.imgur.com/1.png) | 374 | Ger. Offen. (1972) DE 2042663 Photographic dry |
+| 5376633     | 356792-81-9 | ![](https://i.imgur.com/2.png) | 332 | No ref |
+| 5376345     | 3412944-98-2 | ![](https://i.imgur.com/3.png) | 442 | No ref |
+| 5380357     | 525569-45-3 | ![](https://i.imgur.com/4.png) | 409 | No ref |
+| 5225235     | 413595-33-2 | ![](https://i.imgur.com/5.png) | 376 | No ref |
+```
+```markdown
+Table 1: Sequences identified from LLGP-24 band
+
+| N-terminal sequencing | MS/MS spectra of Tryptic Peptides | Edman degradation of Tryptic Peptides |
+| --- | --- | --- |
+| - Ts14 (mature N terminus) | - T24, 16 spectra, 9.3e4 | - peptide 67 - 8-kDa protein (matches with Ts14 and TsRS2 sequences) |
+| - AJ012670 (NC-9) (internal fragment) | - Ts14, 13 spectra, 3.3e4 | - peptide 71 - 8-kDa protein (matches with only Ts18 sequences) |
+|  | - Ts18var1, 7 spectra, 4.2e4 | - peptide 86 - AJ012670 (NC-9) and a secondary sequence with no hits |
+|  | - AB044080 (TsRS2 clade), 4 spectra, 1.2e4 | - peptide 94 - AJ012670 (NC-9), a secondary sequence that matches lectin, and a tertiary sequence with no hits |
+|  | - AJ012670 (NC-9), 7 spectra, 4.7e4 |  |
+|  | - AB044082 (TsRS1 clade), 5 spectra, 5.6e4 |  |
+|  | - AJ012669 (NC-3), 5 spectra, 1.0e4 |  |
+|  | - Echino P-29, 4 spectra, 4.8e3 |  |
+|  | - AF523312 (oncosphere-specific antigen, related to 8-kDa proteins), 2 spectra, 2.7e3 |  |
+
+Table 2: Sequences identified from LLGP-42 band
+
+| N-terminal sequence* | MS/MS spectra of Tryptic Peptides | Edman degradation of Tryptic Peptides |
+| --- | --- | --- |
+| - Ts14 (mature N terminus) | - Ts18var1, 6 spectra, 1.1e4 | - AJ012670 (NC-9) |
+| - AJ012670 (NC-9) (internal fragment) | - Echino P-29, 5 spectra, 2.5e3 |  |
+|  | - Ts14, 3 spectra, 8.7e2 |  |
+|  | - T24, 1 spectra, 4.7e2 |  |
+|  | - AJ012670 (NC-9), 1 spectra, 2.0e3 |  |
+```
+```markdown
+Table 1: Sequences identified from LLGP-24 band
+
+| N-terminal sequencing | MS/MS spectra of Tryptic Peptides | Edman degradation of Tryptic Peptides |
+| --- | --- | --- |
+| - Ts14 (mature N terminus) | - T24, 16 spectra, 9.3e4 | - peptide 67 - 8-kDa protein (matches with Ts14 and TsRS2 sequences) |
+| - AJ012670 (NC-9) (internal fragment) | - Ts14, 13 spectra, 3.3e4 | - peptide 71 - 8-kDa protein (matches with only Ts18 sequences) |
+|  | - Ts18var1, 7 spectra, 4.2e4 | - peptide 86 - AJ012670 (NC-9) and a secondary sequence with no hits |
+|  | - AB044080 (TsRS2 clade), 4 spectra, 1.2e4 | - peptide 94 - AJ012670 (NC-9), a secondary sequence that matches lectin, and a tertiary sequence with no hits |
+|  | - AJ012670 (NC-9), 7 spectra, 4.7e4 |  |
+|  | - AB044082 (TsRS1 clade), 5 spectra, 5.6e4 |  |
+|  | - AJ012669 (NC-3), 5 spectra, 1.0e4 |  |
+|  | - Echino P-29, 4 spectra, 4.8e3 |  |
+|  | - AF523312 (oncosphere-specific antigen, related to 8-kDa proteins), 2 spectra, 2.7e3 |  |
+
+Table 2: Sequences identified from LLGP-42 band
+
+| N-terminal sequence* | MS/MS spectra of Tryptic Peptides | Edman degradation of Tryptic Peptides |
+| --- | --- | --- |
+| - Ts14 (mature N terminus) | - Ts18var1, 6 spectra, 1.1e4 | - AJ012670 (NC-9) |
+| - AJ012670 (NC-9) (internal fragment) | - Echino P-29, 5 spectra, 2.5e3 |  |
+|  | - Ts14, 3 spectra, 8.7e2 |  |
+|  | - T24, 1 spectra, 4.7e2 |  |
+|  | - AJ012670 (NC-9), 1 spectra, 2.0e3 |  |
+```
+```markdown
+Table 1: Sequences identified from LLGP-24 band
+
+| N-terminal sequencing | MS/MS spectra of Tryptic Peptides | Edman degradation of Tryptic Peptides |
+| --- | --- | --- |
+| - Ts14 (mature N terminus) | - T24, 16 spectra, 9.3e4 | - peptide 67 - 8-kDa protein (matches with Ts14 and TsRS2 sequences) |
+| - AJ012670 (NC-9) (internal fragment) | - Ts14, 13 spectra, 3.3e4 | - peptide 71 - 8-kDa protein (matches with only Ts18 sequences) |
+|  | - Ts18var1, 7 spectra, 4.2e4 | - peptide 86 - AJ012670 (NC-9) and a secondary sequence with no hits |
+|  | - AB044080 (TsRS2 clade), 4 spectra, 1.2e4 | - peptide 94 - AJ012670 (NC-9), a secondary sequence that matches lectin, and a tertiary sequence with no hits |
+|  | - AJ012670 (NC-9), 7 spectra, 4.7e4 |  |
+|  | - AB044082 (TsRS1 clade), 5 spectra, 5.6e4 |  |
+|  | - AJ012669 (NC-3), 5 spectra, 1.0e4 |  |
+|  | - Echino P-29, 4 spectra, 4.8e3 |  |
+|  | - AF523312 (oncosphere-specific antigen, related to 8-kDa proteins), 2 spectra, 2.7e3 |  |
+
+Table 2: Sequences identified from LLGP-42 band
+
+| N-terminal sequence* | MS/MS spectra of Tryptic Peptides | Edman degradation of Tryptic Peptides |
+| --- | --- | --- |
+| - Ts14 (mature N terminus) | - Ts18var1, 6 spectra, 1.1e4 | - AJ012670 (NC-9) |
+| - AJ012670 (NC-9) (internal fragment) | - Echino P-29, 5 spectra, 2.5e3 |  |
+|  | - Ts14, 3 spectra, 8.7e2 |  |
+|  | - T24, 1 spectra, 4.7e2 |  |
+|  | - AJ012670 (NC-9), 1 spectra, 2.0e3 |  |
+```
+```markdown
+Table 1: Sequences identified from LLGP-24 band
+
+| N-terminal sequencing | MS/MS spectra of Tryptic Peptides | Edman degradation of Tryptic Peptides |
+| --- | --- | --- |
+| - Ts14 (mature N terminus) | - T24, 16 spectra, 9.3e4 | - peptide 67 - 8-kDa protein (matches with Ts14 and TsRS2 sequences) |
+| - AJ012670 (NC-9) (internal fragment) | - Ts14, 13 spectra, 3.3e4 | - peptide 71 - 8-kDa protein (matches with only Ts18 sequences) |
+|  | - Ts18var1, 7 spectra, 4.2e4 | - peptide 86 - AJ012670 (NC-9) and a secondary sequence with no hits |
+|  | - AB044080 (TsRS2 clade), 4 spectra, 1.2e4 | - peptide 94 - AJ012670 (NC-9), a secondary sequence that matches lectin, and a tertiary sequence with no hits |
+|  | - AJ012670 (NC-9), 7 spectra, 4.7e4 |  |
+|  | - AB044082 (TsRS1 clade), 5 spectra, 5.6e4 |  |
+|  | - AJ012669 (NC-3), 5 spectra, 1.0e4 |  |
+|  | - Echino P-29, 4 spectra, 4.8e3 |  |
+|  | - AF523312 (oncosphere-specific antigen, related to 8-kDa proteins), 2 spectra, 2.7e3 |  |
+
+Table 2: Sequences identified from LLGP-42 band
+
+| N-terminal sequence* | MS/MS spectra of Tryptic Peptides | Edman degradation of Tryptic Peptides |
+| --- | --- | --- |
+| - Ts14 (mature N terminus) | - Ts18var1, 6 spectra, 1.1e4 | - AJ012670 (NC-9) |
+| - AJ012670 (NC-9) (internal fragment) | - Echino P-29, 5 spectra, 2.5e3 |  |
+|  | - Ts14, 3 spectra, 8.7e2 |  |
+|  | - T24, 1 spectra, 4.7e2 |  |
+|  | - AJ012670 (NC-9), 1 spectra, 2.0e3 |  |
+```
+```markdown
+Table 2
+
+| Abundance | Tag | Gene | SEQ ID NO: | Identified |
+|-----------|-----|------|------------|------------|
+| 38        | CATGGAAAGCAGAAT | Alu Repeat | 19 | J00052 |
+| 33        | CATGCAGGAGCTTC | Mito COX I | 20 | PCR |
+| 27        | CATGGGGGAGCGTT | Ribosomal Protein S21 | 21 | PCR |
+| 27        | CATGGTACTGACAC | Mito COX III | 22 | PCR |
+| 20        | CATGGCCTCCAAGG | GAPDH | 23 | X52123 |
+| 20        | CATGATAATACGTA | Mito ATPase 6 | 24 | M14311 |
+| 19        | CATGCCTTTAATCC | B-1 Repeat | 25 | PCR |
+| 18        | CATGAATCGGAGGC | Mito Cytochrome B | 26 | J01436 |
+| 18        | CATGAGGCAGACAG | EF-1 | 27 | D00522 |
+| 18        | CATGGCGGCAGACG | Galectin (L-14) | 28 | M96676 |
+| 16        | CATGGTGGCTCACA | Alu Repeat | 29 | J00056 |
+| 15        | CATGTTGGCTGCCG | Ferritin Heavy Chain | 30 | M99692 |
+| 14        | CATGCCCTGTGCCG | No Match | 31 | |
+| 13        | CATGAGAGCGAAGT | Ribosomal Protein L41 | 32 | X82550 |
+| 13        | CATGAGGAGGCCTA | Mitochondrial NADH Dehydrogenase | 33 | PCR |
+| 12        | CATGCCCTGAGTCC | β-Actin | 34 | AF014363 |
+```
+```markdown
+| Gene | Primer | Sequence | SEQ ID NO: |
+| --- | --- | --- | --- |
+| β-actin | forward | GCTCTTTCTTCGCCGCTCC | 8 |
+| β-actin | reverse | ACCACCCTCCAGCCTTCCC | 9 |
+| EF-1 | forward | GAACGCAGGTGTTGTGAAAA | 10 |
+| EF-1 | reverse | CTCGGCAGCCTCCTTCT | 11 |
+| rpS21 | forward | GTGGACCTGTACGTGC | 12 |
+| rpS21 | reverse | TTCTCACTTTTATTTATGAC | 13 |
+| ferritin | forward | CGCCAGAACTACCACCAGGAC | 14 |
+| ferritin | reverse | TTCAGAGCCACATCATCCCG | 15 |
+| galectin | forward | TGGTCGCAAGCAACCTGAATC | 16 |
+| galectin | reverse | TTGAAGTCACCGTCTGCCGC | 17 |
+```
+```markdown
+Table 1
+
+| Clone ID | Substitution(s)* | F1-L1-M Sequence No. |
+|----------|------------------|----------------------|
+| 37101    | A60R, V161A      | M1                   |
+| 1394867  | I63A, V67T, V161N, P162A | M2                   |
+| 12394867 | I63T, V67A, V161N, P162A | M3                   |
+| 1374972  | M55A, I63A, V67A, V161A | M4                   |
+| 1374973  | M55T, I63A, V67A, V161A | M5                   |
+| 12484973 | M55T, I63T, V67A, V161A | M6                   |
+| 1374968  | Q61A, I63A, V67A, V161A | M7                   |
+| 12484968 | Q61A, I63T, V67A, V161T | M8                   |
+| 124849   | I63T, V67A, V161T | M9                   |
+| 123749   | I63T, V67A, V161A | M10                  |
+| 13749    | I63A, V67A, V161A | M11                  |
+| 14849    | I63A, V67A, V161T | M12                  |
+| 124860   | I63T, V67T, V161T | M13                  |
+| 3849     | V67A, V161R      | M14                  |
+| 4849     | V67A, V161T      | M15                  |
+| 3760     | V67T, V161A      | M16                  |
+| 4860     | V67T, V161T      | M17                  |
+| 3749     | V67A, V161A      | M18                  |
+
+Table A1
+
+M1 - M67 (modified human TPO, truncated form 1 - 174)
+
+M1
+SPAPPACDLRVLSKLLRDSHVVLHSRLSQCPENVHPL
+PTPVLLPAVDLSGEWKTQMEETKRQDILGAVTLL
+LEGVMAARGQLGPTCLSSLLGQLSGQVRLLLGALQ
+SLLGTLPPQGRTTAHKDPNAIFLSFQHLLRGKVR
+FLMLVGGSTLCVRRAPPTTAAPSRTSLVLTNEL
+
+M2
+SPAPPACDLRVLSKLLRDSHVVLHSRLSQCPENVHPL
+PTPVLLPAVDLSGEWKTQMEETKAQDALGATTLL
+LEGVMAARGQLGPTCLSSLLGQLSGQVRLLLGALQ
+SLLGTLPPQGRTTAHKDPNAIFLSFQHLLRGKVR
+FLMLVGGSTLCVRRAPPTTANASRTSLVLTNEL
+```
+```markdown
+## Table 2
+| Clone ID | Substitution(s) | F1-L1-M sequence | Relative Activity* (proliferation in TF-1 cells) |
+| --- | --- | --- | --- |
+| 37101 | A60R, V161A | M1 | 1.0 |
+| 1394867 | I63A, V67T, V161N, P162A | M2 | 1.0 |
+| 12394867 | I63T, V67A, V161N, P162A | M3 | 1.5 |
+| 1374972 | M55A, I63A, V67A, V161A | M4 | 0.2 |
+| 1374973 | M55T, I63A, V67A, V161A | M5 | 0.1 |
+| 12484973 | M55T, I63T, V67A, V161A | M6 | 0.1 |
+| 1374968 | Q61A, I63A, V67A, V161A | M7 | 0.4 |
+| 12484968 | Q61A, I63T, V67A, V161T | M8 | 1.4 |
+| 124849 | I63T, V67A, V161T | M9 | 0.4 |
+| 123749 | I63T, V67A, V161A | M10 | 1.0 |
+| 13749 | I63A, V67A, V161A | M11 | 0.5 |
+| 14849 | I63A, V67A, V161T | M12 | 1.0 |
+| 124860 | I63T, V67T, V161T | M13 | 1.0 |
+| 3849 | V67A, V161R | M14 | 0.6 |
+| 4849 | V67A, V161T | M15 | 0.4 |
+| 3760 | V67T, V161A | M16 | 0.7 |
+| 4860 | V67T, V161T | M17 | 0.9 |
+| 3749 | V67A, V161A | M18 | 0.2 |
+| 4249 | V67A, V161E | M19 | 1.0 |
+| 1248 | I63T, V161T | M20 | 0.7 |
+| 1238 | I63T, V161R | M21 | 1.8 |
+| 1242 | I63T, V161E | M22 | 0.4 |
+| 1237 | I63T, V161A | M23 | 1.5 |
+| 149 | I63A, V67A | M24 | 1.5 |
+| 160 | I63A, V67T | M25 | 2.0 |
+| 1249 | I63T, V67A | M26 | 1.6 |
+| 137 | I63A, V161A | M27 | 3.0 |
+| 142 | I63A, V161E | M28 | 1.5 |
+| 138 | I63A, V161R | M29 | 3.3 |
+| 148 | I63A, V161T | M30 | 4.0 |
+| 6063 | E50A, V67T | M31 | 1.0 |
+| 163 | E50A, I63A | M32 | 4.8 |
+| 1263 | E50A, I63T | M33 | 6.3 |
+| 4263 | E50A, V161E | M34 | 5.0 |
+| 37 | V161A | M35 | 1.0 |
+| 40 | V161D | M36 | 1.0 |
+| 42 | V161E | M37 | 0.5 |
+| 43 | V161G | M38 | 1.0 |
+| 44 | V161H | M39 | 1.0 |
+| 39 | V161N | M40 | 1.0 |
+| 46 | V161P | M41 | 1.0 |
+| 45 | V161K | M42 | 3.3 |
+| 41 | V161Q | M43 | 1.0 |
+| 38 | V161R | M44 | 2.0 |
+| 48 | V161T | M45 | 1.0 |
+| 49 | V67A | M46 | 0.5 |
+| 60 | V67T | M47 | 0.6 |
+| 1 | I63A | M48 | 2.0 |
+| 12 | I63T | M49 | 2.0 |
+| 68 | Q61A | M50 | 0.6 |
+| 69 | Q61T | M51 | 2.3 |
+| 72 | M55A | M52 | 0.3 |
+| 102 | M55K | M53 | 0.1 |
+| 74 | M55S | M54 | 1.0 |
+| 73 | M55T | M55 | 0.1 |
+| 100 | T58A | M56 | 1.0 |
+| 35 | W51S | M57 | 8.0 |
+| 63 | E50A | M58 | 1.0 |
+| 77 | L69A | M59 | 1.0 |
+| 78 | L69S | M60 | 0.7 |
+| 79 | L69T | M61 | 0.2 |
+| 83 | L71A | M62 | 1.8 |
+| 86 | E72A | M63 | 1.8 |
+| 87 | E72S | M64 | 2.1 |
+| 101 | A60R | M65 | 1.4 |
+| 101102 | M55K, A60R | M66 | 0.2 |
+| 37101102 | M55K, A60R, V161A | M67 | 0.4 |
+| 00 | WT | M68 | - |
+* Relative activity is ED<sub>50</sub> test protein (M1–M67)/ED<sub>50</sub> Fc-TPO WT (M68). ED<sub>50</sub> measured in TF-1 cells.
+
+## Table 3
+| Peptide No | Peptide sequence | Peptide No | Peptide sequence |
+| --- | --- | --- | --- |
+| 1 | SPAPPACDLRVLSKL | 29 | CLSLLGQLSGQVRL |
+| 2 | PPACDLRVLSKLLRD | 30 | SLLGQLSGQVRLLLG |
+| 3 | CDLRVLSKLLRDSHV | 31 | GQLSGQVRLLLGALQ |
+| 4 | RVLSKLLRDSHVLHS | 32 | SGQVRLLLQALQSLL |
+| 5 | SKLLRDSHVLHSRLS | 33 | VRLLLGALQSLLGTQ |
+| 6 | LRDSHVLHSRLSQCP | 34 | LLGALQSLLGTLPP |
+| 7 | SHVLHSRLSQCPEVH | 35 | ALQSLLGTLPPQGR |
+| 8 | LHSRLSQCPEVHPLP | 36 | SLLGTQLPPQGRTTA |
+| 9 | RLSQCPEVHPLPTPV | 37 | GTQLPPQGRTTAHKD |
+| 10 | QCPEVHPLPTPVLLP | 38 | LPPQGRTTAHKDPNA |
+| 11 | EVHPLPTPVLLPAVD | 39 | QGRTTAHKDPNAIFL |
+| 12 | PLPTPVLLPAVDLSL | 40 | TTAHKDPNAIFLSFQ |
+| 13 | TPVLLPAVDLSLGEW | 41 | HKDPNAIFLSFQHLL |
+| 14 | LLPAVDLSLGEWKTQ | 42 | PNAIFLSFQHLLRGK |
+| 15 | AVDFSLLGEWKTQMEE | 43 | IFLSFQHLLRGKVRF |
+| 16 | FSLGEWKTQMEETKA | 44 | SFQHLLRGKVRFML |
+| 17 | GEWKTQMEETKAQDI | 45 | HLLRGKVRFMLLVGG |
+| 18 | KTQMEETKAQDILGA | 46 | RGKVRFMLLVGGSTL |
+| 19 | MEETKAQDILGAVTL | 47 | VRFLMLVGGSTLCVR |
+| 20 | TKAQDILGAVTLLLE | 48 | LMLVGGSTLCVRRAP |
+| 21 | QDILGAVTLLLEGVM | 49 | VGGSTLCVRRAPPTT |
+| 22 | LGAVTLLLEGVMAAR | 50 | STLCVRRAPPTTAVP |
+| 23 | VTLLLEGVMAARGQL | 51 | CVRRAPPTTAVPSRT |
+| 24 | LLEGVMAARGQLGPT | 52 | RAPPTTAVPSRTSLV |
+| 25 | GVMAARGQLGPTCLS | 53 | PTTAVPSRTSLVLTL |
+| 26 | AARGQLGPTCLSSLL | 54 | AVPSRTSLVLTLNEL |
+| 27 | GQLGPTCLSSLLGQL | 55 | SRTSLVLTLNELPNR |
+| 28 | GPTCLSSLLGQLSGQ |  |  |
+```
+```markdown
+## Table 2
+| Clone ID | Substitution(s) | F1-L1-M sequence | Relative Activity* (proliferation in TF-1 cells) |
+| --- | --- | --- | --- |
+| 37101 | A60R, V161A | M1 | 1.0 |
+| 1394867 | I63A, V67T, V161N, P162A | M2 | 1.0 |
+| 12394867 | I63T, V67A, V161N, P162A | M3 | 1.5 |
+| 1374972 | M55A, I63A, V67A, V161A | M4 | 0.2 |
+| 1374973 | M55T, I63A, V67A, V161A | M5 | 0.1 |
+| 12484973 | M55T, I63T, V67A, V161A | M6 | 0.1 |
+| 1374968 | Q61A, I63A, V67A, V161A | M7 | 0.4 |
+| 12484968 | Q61A, I63T, V67A, V161T | M8 | 1.4 |
+| 124849 | I63T, V67A, V161T | M9 | 0.4 |
+| 123749 | I63T, V67A, V161A | M10 | 1.0 |
+| 13749 | I63A, V67A, V161A | M11 | 0.5 |
+| 14849 | I63A, V67A, V161T | M12 | 1.0 |
+| 124860 | I63T, V67T, V161T | M13 | 1.0 |
+| 3849 | V67A, V161R | M14 | 0.6 |
+| 4849 | V67A, V161T | M15 | 0.4 |
+| 3760 | V67T, V161A | M16 | 0.7 |
+| 4860 | V67T, V161T | M17 | 0.9 |
+| 3749 | V67A, V161A | M18 | 0.2 |
+| 4249 | V67A, V161E | M19 | 1.0 |
+| 1248 | I63T, V161T | M20 | 0.7 |
+| 1238 | I63T, V161R | M21 | 1.8 |
+| 1242 | I63T, V161E | M22 | 0.4 |
+| 1237 | I63T, V161A | M23 | 1.5 |
+| 149 | I63A, V67A | M24 | 1.5 |
+| 160 | I63A, V67T | M25 | 2.0 |
+| 1249 | I63T, V67A | M26 | 1.6 |
+| 137 | I63A, V161A | M27 | 3.0 |
+| 142 | I63A, V161E | M28 | 1.5 |
+| 138 | I63A, V161R | M29 | 3.3 |
+| 148 | I63A, V161T | M30 | 4.0 |
+| 6063 | E50A, V67T | M31 | 1.0 |
+| 163 | E50A, I63A | M32 | 4.8 |
+| 1263 | E50A, I63T | M33 | 6.3 |
+| 4263 | E50A, V161E | M34 | 5.0 |
+| 37 | V161A | M35 | 1.0 |
+| 40 | V161D | M36 | 1.0 |
+| 42 | V161E | M37 | 0.5 |
+| 43 | V161G | M38 | 1.0 |
+| 44 | V161H | M39 | 1.0 |
+| 39 | V161N | M40 | 1.0 |
+| 46 | V161P | M41 | 1.0 |
+| 45 | V161K | M42 | 3.3 |
+| 41 | V161Q | M43 | 1.0 |
+| 38 | V161R | M44 | 2.0 |
+| 48 | V161T | M45 | 1.0 |
+| 49 | V67A | M46 | 0.5 |
+| 60 | V67T | M47 | 0.6 |
+| 1 | I63A | M48 | 2.0 |
+| 12 | I63T | M49 | 2.0 |
+| 68 | Q61A | M50 | 0.6 |
+| 69 | Q61T | M51 | 2.3 |
+| 72 | M55A | M52 | 0.3 |
+| 102 | M55K | M53 | 0.1 |
+| 74 | M55S | M54 | 1.0 |
+| 73 | M55T | M55 | 0.1 |
+| 100 | T58A | M56 | 1.0 |
+| 35 | W51S | M57 | 8.0 |
+| 63 | E50A | M58 | 1.0 |
+| 77 | L69A | M59 | 1.0 |
+| 78 | L69S | M60 | 0.7 |
+| 79 | L69T | M61 | 0.2 |
+| 83 | L71A | M62 | 1.8 |
+| 86 | E72A | M63 | 1.8 |
+| 87 | E72S | M64 | 2.1 |
+| 101 | A60R | M65 | 1.4 |
+| 101102 | M55K, A60R | M66 | 0.2 |
+| 37101102 | M55K, A60R, V161A | M67 | 0.4 |
+| 00 | WT | M68 | - |
+* Relative activity is ED<sub>50</sub> test protein (M1–M67)/ED<sub>50</sub> Fc-TPO WT (M68). ED<sub>50</sub> measured in TF-1 cells.
+
+## Table 3
+| Peptide No | Peptide sequence | Peptide No | Peptide sequence |
+| --- | --- | --- | --- |
+| 1 | SPAPPACDLRVLSKL | 29 | CLSLLGQLSGQVRL |
+| 2 | PPACDLRVLSKLLRD | 30 | SLLGQLSGQVRLLLG |
+| 3 | CDLRVLSKLLRDSHV | 31 | GQLSGQVRLLLGALQ |
+| 4 | RVLSKLLRDSHVLHS | 32 | SGQVRLLLQALQSLL |
+| 5 | SKLLRDSHVLHSRLS | 33 | VRLLLGALQSLLGTQ |
+| 6 | LRDSHVLHSRLSQCP | 34 | LLGALQSLLGTLPP |
+| 7 | SHVLHSRLSQCPEVH | 35 | ALQSLLGTLPPQGR |
+| 8 | LHSRLSQCPEVHPLP | 36 | SLLGTQLPPQGRTTA |
+| 9 | RLSQCPEVHPLPTPV | 37 | GTQLPPQGRTTAHKD |
+| 10 | QCPEVHPLPTPVLLP | 38 | LPPQGRTTAHKDPNA |
+| 11 | EVHPLPTPVLLPAVD | 39 | QGRTTAHKDPNAIFL |
+| 12 | PLPTPVLLPAVDLSL | 40 | TTAHKDPNAIFLSFQ |
+| 13 | TPVLLPAVDLSLGEW | 41 | HKDPNAIFLSFQHLL |
+| 14 | LLPAVDLSLGEWKTQ | 42 | PNAIFLSFQHLLRGK |
+| 15 | AVDFSLLGEWKTQMEE | 43 | IFLSFQHLLRGKVRF |
+| 16 | FSLGEWKTQMEETKA | 44 | SFQHLLRGKVRFML |
+| 17 | GEWKTQMEETKAQDI | 45 | HLLRGKVRFMLLVGG |
+| 18 | KTQMEETKAQDILGA | 46 | RGKVRFMLLVGGSTL |
+| 19 | MEETKAQDILGAVTL | 47 | VRFLMLVGGSTLCVR |
+| 20 | TKAQDILGAVTLLLE | 48 | LMLVGGSTLCVRRAP |
+| 21 | QDILGAVTLLLEGVM | 49 | VGGSTLCVRRAPPTT |
+| 22 | LGAVTLLLEGVMAAR | 50 | STLCVRRAPPTTAVP |
+| 23 | VTLLLEGVMAARGQL | 51 | CVRRAPPTTAVPSRT |
+| 24 | LLEGVMAARGQLGPT | 52 | RAPPTTAVPSRTSLV |
+| 25 | GVMAARGQLGPTCLS | 53 | PTTAVPSRTSLVLTL |
+| 26 | AARGQLGPTCLSSLL | 54 | AVPSRTSLVLTLNEL |
+| 27 | GQLGPTCLSSLLGQL | 55 | SRTSLVLTLNELPNR |
+| 28 | GPTCLSSLLGQLSGQ |  |  |
+```
+Table 5
+
+Relative activity of most preferred TPO muteins
+
+| Clone ID | F1-L1-M Sequence No | Substitution set | Relative Activity |
+| --- | --- | --- | --- |
+| 37101 | M1 | A60R, V161A | 1 |
+| 101102 | M66 | M55K, A60R | 0.2 |
+| 37101102 | M67 | M55k, A60R, V161A | 0.4 |
+| 102 | M53 | M55K | 0.1 |
+| r-hTPO | N/a | WT | 2.5 |
+```markdown
+Table 1
+
+| scFv | SEQ ID NO of nucleotide sequence | SEQ ID NO of amino acid sequence | CDR3 | V<sub>H</sub>-germline | V<sub>L</sub>-germline |
+|------|--------------------------------|---------------------------------|------|------------------------|------------------------|
+| SC02-357 | SEQ ID NO:14 | SEQ ID NO:15 | VSTGGFFDY (SEQ ID NO:3) | V<sub>H</sub>4 DP69 | V<sub>K</sub>I |
+| SC02-378 | SEQ ID NO:16 | SEQ ID NO:17 | SSSGGFFDY (SEQ ID NO:4) | V<sub>H</sub>4 DP69 | V<sub>K</sub>I |
+| SC02-161 | SEQ ID NO:18 | SEQ ID NO:19 | QTTAGSFDY (SEQ ID NO:5) | V<sub>H</sub>4 DP69 | V<sub>K</sub>I |
+
+Table 2
+
+| Cell line | Origin | SC02-357 reactivity |
+|-----------|--------|---------------------|
+| KG1       | Acute Myeloid Leukemia | -                   |
+| HL-60     | Acute Myeloid Leukemia | +                   |
+| NB4       | Acute Promyelocytic Leukemia | -                  |
+| U937      | Histiocytic Lymphoma | +                   |
+| THP-1     | Acute Monocytic Leukemia | +                   |
+| K562      | Erythroid Leukemia | -                   |
+| 293T      | Embryonal Kidney | -                   |
+| PerC6     | Embryonal Retina | -                   |
+| LS174T    | Colon Adenocarcinoma | -                   |
+```
+```markdown
+| Sequence Name | Total AA number | Percentage CTL to Consensus |
+|---------------|-----------------|----------------------------|
+| cCanc95-mod1  | 389             | 98.48%                     |
+| cBR.92BR025   | 376             | 95.19%                     |
+| cBI.BU910717  | 363             | 91.90%                     |
+| cIN.21068     | 368             | 93.16%                     |
+| cIN.301905    | 370             | 93.67%                     |
+| cMW959.U08453  | 358             | 90.63%                     |
+| cBW.96BW1210  | 365             | 92.41%                     |
+| cBI.BU910316  | 367             | 92.91%                     |
+| cZAM176.U86778 | 352             | 89.11%                     |
+| cMW965.U08455  | 364             | 92.15%                     |
+| cZAM174.16.U86768 | 351 | 88.86%                     |
+| c84ZR085.U88822 | 322             | 81.52%                     |
+| cSN.SE364A    | 370             | 93.67%                     |
+| cMW960.U08454  | 365             | 92.41%                     |
+```
+```markdown
+Table 1
+
+| MOLECULE | NUCLEOTIDE OR AMINO ACID | SEQ ID NO |
+| --- | --- | --- |
+| AC10 Heavy Chain Variable Region | Nucleotide | 1 |
+| AC10 Heavy Chain Variable Region | Amino Acid | 2 |
+| AC10 Heavy Chain-CDR1(H1) | Nucleotide | 3 |
+| AC10 Heavy Chain-CDR1(H1) | Amino Acid | 4 |
+| AC10 Heavy Chain-CDR2(H2) | Nucleotide | 5 |
+| AC10 Heavy Chain-CDR2(H2) | Amino Acid | 6 |
+| AC10 Heavy Chain-CDR3(H3) | Nucleotide | 7 |
+| AC10 Heavy Chain-CDR3(H3) | Amino Acid | 8 |
+| AC10 Light Chain Variable Region | Nucleotide | 9 |
+| AC10 Light Chain Variable Region | Amino Acid | 10 |
+| AC10 Light Chain-CDR1(L1) | Nucleotide | 11 |
+| AC10 Light Chain-CDR1(L1) | Amino Acid | 12 |
+| AC10 Light Chain-CDR2(L2) | Nucleotide | 13 |
+| AC10 Light Chain-CDR2(L2) | Amino Acid | 14 |
+| AC10 Light Chain-CDR3(L3) | Nucleotide | 15 |
+| AC10 Light Chain-CDR3(L3) | Amino Acid | 16 |
+| HeFi-1 Heavy Chain Variable Region | Nucleotide | 17 |
+| HeFi-1 Heavy Chain Variable Region | Amino Acid | 18 |
+| HeFi-1 Heavy Chain-CDR1(H1) | Nucleotide | 19 |
+| HeFi-1 Heavy Chain-CDR1(H1) | Amino Acid | 20 |
+| HeFi-1 Heavy Chain-CDR2(H2) | Nucleotide | 21 |
+| HeFi-1 Heavy Chain-CDR2(H2) | Amino Acid | 22 |
+| HeFi-1 Heavy Chain-CDR3(H3) | Nucleotide | 23 |
+| HeFi-1 Heavy Chain-CDR3(H3) | Amino Acid | 24 |
+| HeFi-1 Light Chain Variable Region | Nucleotide | 25 |
+| HeFi-1 Light Chain Variable Region | Amino Acid | 26 |
+| HeFi-1 Light Chain-CDR1(L1) | Nucleotide | 27 |
+| HeFi-1 Light Chain-CDR1(L1) | Amino Acid | 28 |
+| HeFi-1 Light Chain-CDR2(L2) | Nucleotide | 29 |
+| HeFi-1 Light Chain-CDR2(L2) | Amino Acid | 30 |
+| HeFi-1 Light Chain-CDR3(L3) | Nucleotide | 31 |
+| HeFi-1 Light Chain-CDR3(L3) | Amino Acid | 32 |
+```
+```markdown
+Table 1: Polynucleotide Annotations
+
+| SEQ ID NO | DEX ID | Chromo Map | ORF Loc | SEQ ID NO | DEX ID |
+|-----------|--------|------------|---------|-----------|--------|
+| 1         | DEX0482_001.nt.1 | 8p21.2     | 1-1320  | 5         | DEX0482_001.aa.1 |
+| 1         | DEX0482_001.nt.1 | 8p21.2     | 259-1605 | 6         | DEX0482_001.orf.1 |
+| 2         | DEX0482_001.nt.2 | 8p21.2     | 286-1518 | 7         | DEX0482_001.aa.2 |
+| 3         | DEX0482_001.nt.3 | 8p21.2     | 286-1407 | 8         | DEX0482_001.aa.3 |
+| 4         | DEX0482_001.nt.4 | 8p21.2     | 1-1122  | 8         | DEX0482_001.aa.3 |
+```
+```markdown
+## Table 2: Transcription Factors isolated from P. radiata
+
+| Transcription Factor Family | Polynucleotide SEQ ID NO | Polypeptide SEQ ID NO |
+|-----------------------------|--------------------------|-----------------------|
+| AB13/VP1                    | 1810                     | 2142                  |
+| Alfin-like                  | 448-455                  | 1268-1275             |
+| AP2-EREBP                   | 456-494, 1811-1823       | 1276-1314, 2143-2155  |
+| ARF                         | 496-498, 1824-1831       | 1316-1318, 2156-2163  |
+| ARID                        | 625, 1832-1834           | 1445, 2164-2166       |
+| AUX/LAA                     | 499-507, 600, 771, 1835-1836 | 1319-1327, 1420, 1591, 2167-2168 |
+| bHLH                        | 508-522, 1837-1853       | 1328-1342, 2169-2185  |
+| bZIP                        | 517, 523-535, 1854-1860  | 1337, 1343-1355, 2186-2192 |
+| C2C2 (Co-like)             | 536-547, 1861, 1864, 1866-1868 | 1356-1367, 2193, 2196, 2198-2200 |
+| C2C2 (Dof)                  | 548-553, 1862, 1865      | 1368-1373, 2194-2197  |
+| C2C2 (GATA)                 | 554-558, 1863            | 1374-1378, 2195       |
+| C2C2 (YABBY)                | 559-560                  | 1379-1380             |
+| C2H2 (Zn)                   | 561-570, 1869-1877       | 1381-1390, 2201-2209  |
+| C3H-type                    | 571-585, 1878-1884       | 1391-1405, 2210-2216  |
+| CCAAT DR1                   | 586-587                  | 1406-1407             |
+| CCAAT                       | 586-592                  | 1406-1412             |
+| CCAAT HAP2                  | 1886-1888                | 2218-2220             |
+| CCAAT HAP3                  | 688-590, 593-597         | 1408-1410, 1417       |
+| CCAAT HAP5                  | 592, 599-500             | 1412, 1419-1420       |
+| CPP (Zn)                    | 601, 1889                | 1421, 2221            |
+| DRAP1                       | 602                      | 1422                  |
+| E2F/DP                      | 603, 1890-1892           | 1423, 2222-2224       |
+| EIL                         | 1893-1894                | 2225-2226             |
+| GARP                        | 604-617, 792, 1890, 1895-1901 | 1424-1437, 1612, 2227-2233 |
+| GRAS                        | 618-619, 1902-1906       | 1438-1439, 2234-2238  |
+| HMG-BOX                     | 621-627, 1907            | 1441-2239             |
+| HOMEOBOX                    | 628-654, 1908-1915       | 1448-1474, 2240-2247  |
+| HSF                         | 655-660, 1916-1917       | 1475-1480, 2248-2249  |
+| Jumonji                     | 1918-1919                | 2248-2249             |
+| LFY                         | 661-662                  | 1481-1482             |
+| LIM                         | 666, 1920                | 1486, 2252            |
+| MADS Box                    | 286, 299, 667-697, 1921-1924 | 1106, 1119, 1487-1517, 2253-2256 |
+| MYB                         | 331, 698-751, 1925-1941  | 1151, 1518-1571, 2274-2279 |
+| NAC                         | 752-775, 1942-1947       | 1572-1595, 2274-2279  |
+| NIN-like                    | 776, 1948-1949           | 1596, 2280-2281       |
+| Polycomb-like               | 777                      | 1597                  |
+| RAV-like                    | 495, 778-779, 1950       | 1315, 1598-1599, 2282 |
+| SBP                         | 780-786, 1951-1953       | 1600-1606, 2283-2285  |
+| TCP                         | 787-790, 1954-1955       | 1607-1610, 2286-2287  |
+```
+```markdown
+Table 1: Comparison of Plant Growth Parameters
+
+| SEQ ID NO: | Promoter | Gene | Line Number | Height (cm) | Root Collar Diameter (mm) | Seedling Volume Index (cm²) |
+|------------|----------|------|-------------|-------------|---------------------------|----------------------------|
+| 35S(I) GUS | 35S      | GUS(int) |            | 12.2        | 2.30                      | 0.29                       |
+| 269        | 35S      | Muscle LIM protein | 1942 | 19.1        | 2.61                      | 0.51 (76%)                 |
+| 269        | 35S      | Muscle LIM protein | 1943 | 17.0        | 2.27                      | 0.41 (42%)                 |
+| 269        | 35S      | Muscle LIM protein | 1997 | 14.3        | 3.01                      | 0.44 (52%)                 |
+| 269        | 35S      | Muscle LIM protein | 2009 | 16.0        | 2.68                      | 0.43 (49%)                 |
+| 269        | 35S      | Muscle LIM protein | 2010 | 16.4        | 2.47                      | 0.41 (42%)                 |
+| 270        | 35S      | Muscle LIM protein | 2357 | 14.7        | 3.01                      | 0.44 (52%)                 |
+| 538        | 35S      | Putative zinc finger protein | 1949 | 16.6        | 2.49                      | 0.41 (42%)                 |
+| 538        | 35S      | Putative zinc finger protein | 2013 | 16.0        | 2.83                      | 0.46 (59%)                 |
+|            | 35S      | Putative zinc finger protein | 2132 | 16.7        | 2.51                      | 0.42 (45%)                 |
+| 127        | 35S      | Putative zinc finger protein | 2002 | 18.0        | 2.55                      | 0.46 (59%)                 |
+
+Table 2: Non-transformed Plant Growth Parameters
+
+| Non-transformed | Height (cm) | Root Collar Diameter (mm) | Seedling Volume Index (cm²) |
+|-----------------|-------------|---------------------------|----------------------------|
+|                 | 13.1        | 2.11                      | 0.28                       |
+```
+```markdown
+Table 1: Comparison of Plant Growth Parameters
+
+| SEQ ID NO: | Promoter | Gene | Line Number | Height (cm) | Root Collar Diameter (mm) | Seedling Volume Index (cm²) |
+|------------|----------|------|-------------|-------------|---------------------------|----------------------------|
+| 35S(I) GUS | 35S      | GUS(int) |            | 12.2        | 2.30                      | 0.29                       |
+| 269        | 35S      | Muscle LIM protein | 1942 | 19.1        | 2.61                      | 0.51 (76%)                 |
+| 269        | 35S      | Muscle LIM protein | 1943 | 17.0        | 2.27                      | 0.41 (42%)                 |
+| 269        | 35S      | Muscle LIM protein | 1997 | 14.3        | 3.01                      | 0.44 (52%)                 |
+| 269        | 35S      | Muscle LIM protein | 2009 | 16.0        | 2.68                      | 0.43 (49%)                 |
+| 269        | 35S      | Muscle LIM protein | 2010 | 16.4        | 2.47                      | 0.41 (42%)                 |
+| 270        | 35S      | Muscle LIM protein | 2357 | 14.7        | 3.01                      | 0.44 (52%)                 |
+| 538        | 35S      | Putative zinc finger protein | 1949 | 16.6        | 2.49                      | 0.41 (42%)                 |
+| 538        | 35S      | Putative zinc finger protein | 2013 | 16.0        | 2.83                      | 0.46 (59%)                 |
+|            | 35S      | Putative zinc finger protein | 2132 | 16.7        | 2.51                      | 0.42 (45%)                 |
+| 127        | 35S      | Putative zinc finger protein | 2002 | 18.0        | 2.55                      | 0.46 (59%)                 |
+
+Table 2: Non-transformed Plant Growth Parameters
+
+| Non-transformed | Height (cm) | Root Collar Diameter (mm) | Seedling Volume Index (cm²) |
+|-----------------|-------------|---------------------------|----------------------------|
+|                 | 13.1        | 2.11                      | 0.28                       |
+```
+```markdown
+Table 1: WO 2005/001050
+
+| Year | Eucalyptus spp. ID | Sequence |
+|------|--------------------|----------|
+| 2014 | pp_000258          | MSPAVMIPHKNAANAFSGKTARACDNCIQRRARWYCAADDAFLCQSCDRSVHSA... |
+| 2015 | pp_008163          | MDTAEWRQGIGVIKAMEGSSRPALRSRPQKDQALNCPRCTSTHTKFCYYNNYSLSQ... |
+| 2016 | pp_010927          | MPSDARPQASAAAAAGGAGLHPHPPPQTEALPCPRCDSTNTKFCYFNNYNLSQPRH... |
+| 2017 | pp_017105          | MSSSSAFSPDPLSPNEQLCYVHCNFCDTVLAVSVPCSSLFKTVTVRCGHCTNLLSVN... |
+| 2018 | pp_035297          | MLEMKDAAIKLFGQTIGLREKRGVLDEPSWGGGKEFASEAGGPGSWDRGGSVSADA... |
+| 2019 | pp_015936          | MGYICEFCGEQRSMVYCRSDAACLCLSCDRNVHSANALSRRHSRTLLCERCNSQPA... |
+| 2021 | pp_011596          | MTDPYSSYLNGWINFNPLHHCSPSPPPPSSSSFSSIATNYYNSSHCFYSLYDYNHVY... |
+| 2022 | pp_017168          | MSNITGEGGSFSSGNTGEAEVQPQELLNHILFGANNSSLSSASANNDLSASTHDEKP... |
+| 2023 | pp_019538          | MTDPYSSYLNGWINFNPLHHCSPSPPPPSSSSFSSIATNYYNSSHCFYSRYDYNHVY... |
+| 2024 | pp_028546          | MEMKGLLAVNDNSMSNLTSSASGEICASSGSGSEIYGNNNNLYSHHSFASANHQPS... |
+| 2025 | pp_032576          | MRELENNSDLNNLPEDYTRDGNKQVFEGSSSSSVPLNGRRKRDIVITCQARSEKAS... |
+| 2026 | pp_038212          | MDSKMDLEERLRAETWGKPSSVNDLPQRVPPDRQTPFPNFASHKNLQKREDQDPSI... |
+| 2027 | pp_046982          | MPGLTCNACNKEFEDDAEQKLHYKSEWHRYNLKRKVAGVPGVTEALFLARQAAL... |
+| 2028 | pp_033218          | MEMKGLLAVNDNSMSNLTSSASGEICASSGSGSEIYGNNNNLYSHHSFASANHQPS... |
+```
+```markdown
+Table 15: Expression of P. radiatas Transcription Factors in Arabidopsis
+
+| SEQ ID NO | Construct | TF Family | Number of Plants Transformed | Transformation Efficiency | Phenotypic Expression |
+|-----------|------------|------------|------------------------------|---------------------------|------------------------|
+| 1710      | pFOR116    | CBF/NF-Y archeal Histone | 15                           | 0.2                       | 15 seedlings survived; 2 with anthocyanin. |
+| 539       | pFOR122    | CONSTANS-like Zn Finger | 20                           | 0.5                       | 20 seedlings survived; No visible abnormalities |
+| 538       | pFOR126    | CONSTANS-like Zn Finger | 20                           | 0.7                       | 20 seedlings survived; No visible abnormalities |
+| 474       | pFOR294    | Ethylene-Response Element Binding Protein | 20                           | 0.2                       | 20 seedlings survived; 13 with spindly roots and reduced branching |
+| 620       | pFOR244    | HMG2       | 20                           | 0.5                       | 20 seedlings survived; 4 with reduced primary root branching |
+| 622       | pFOR258    | HMG1       | 13                           | 0.1                       | 13 seedlings survived; No visible abnormalities |
+| 675       | pFOR146    | MADS-Box   | 20                           | 1.6                       | 20 seedlings survived; 6 with reduced root branching; 5 with small cotyledons |
+| 708       | pFOR234    | MYB        | 20                           | 0.9                       | 20 seedlings survived; 3 with short roots and 4 with anthocyanin in cotyledons |
+| 728       | pFOR208    | MYB        | 20                           | 0.26                      | 20 seedlings           |
+```
+```markdown
+Table 16
+
+| SEQ ID | Annotation | Phloem v Camb&Xyl | Phloem v Xylem | Camb v Xylem |
+| --- | --- | --- | --- | --- |
+| 714 | MYB transcription factor | -1.39 | -1.45 | 0.16 |
+| 750 | MYB transcription factor | -1.29 | -1.39 | 0.3 |
+| 653 | HOMEOBOX TRANSCRIPTION FACTOR | -1.16 | -1.01 | -0.46 |
+| 683 | PUTATIVE MADS BOX TRANSCRIPTION FACTOR PRMADS9 | -1.05 | -1.05 | -0.02 |
+| 654 | HOMEOBOX PROTEIN HD-ZIP (HD-ZIP TRANSCRIPTION FACTOR) | -1.02 | -0.85 | -0.53 |
+| 622 | HMG-Box transcription factor | 0.38 | 0.73 | -1.06 |
+```
+Table 14: Expression of E. grandis Transcription Factors in Arabidopsis
+
+| SEQ ID NO | Transcription Factor Family | Number of Plants Transformed | Transformation Efficiency(%) | Phenotypic Expression |
+|-----------|------------------------------|------------------------------|------------------------------|------------------------|
+| 7         | Alfin-like                   | 20                           | 0.30                         | 15 seedlings survived; 4 with short roots |
+| 79        | bHLH                         | 19                           | 0.10                         | 19 seedlings survived; 6 with chlorophylllic primary roots |
+| 95        | bZIP                         | 20                           | 0.41                         | 20 seedlings survived; No visible abnormalities |
+| 97        | bZIP                         | 20                           | 2.20                         | 20 seedlings survived; 6 with a branched primary root |
+| 102       | bZIP                         | 20                           | 0.20                         | 20 seedlings survived; 1 with short roots, 1 with cotyledon having anthocyanin |
+| 103       | bZIP                         | 20                           | 0.27                         | 20 seedlings survived; 5 with increased root hairs; 2 with reduced root branching |
+| 126       | C2C2CO-like                  | 19                           | 0.25                         | 19 seedlings survived; No visible abnormalities |
+| 127       | C2C2CO-like                  | 20                           | 0.10                         | 18 seedlings survived; 3 with large cotyledons |
+| 129       | C2C2CO-like                  | 20                           | 0.50                         | 20 seedlings survived; 3 with premature bolting |
+| 178       | C3H-Type Zn Finger          | 20                           | 0.46                         | 20 seedlings survived; 4 with small cotyledons |
+| 246       | HOMEO box                    | 9                            | 0.01                         | 9 seedlings survived; all 9 have small roots and cotyledons |
+| 300       | MADS Box                     | 20                           | 0.18                         | 20 seedlings survived; 7 with smaller, paler cotyledons |
+| 319       | MYB                          | 20                           | 1.5                          | 20 seedlings survived; No visible abnormalities |
+```markdown
+Table 1: Pinus Radiata Protein Sequences
+
+| ID | Protein Name | Sequence |
+|---|--------------|----------|
+| 2159 | pinusRadiata_011245 | MRLSSSGFSQQSQEGERRSLNSELWHACAGPLVSLPAIGSRVVFYFPQGHSEQVAASTNKEVDAAHIPNYPNLPPQQLICQLHNVTMHADVETDEVYAQMTLQPFNLQEQRREPSSLVPELGAPSKQPTNYFCKTLTASDTSTHGGFSVPRRAAEKVFPPLDFTQQPPVQELIARDLHDNEWKFRHIYRGQPKRHLLTTGWSVFVSAKRLVAGDSVLFIRNENGKLLLGIERRANRSQTVMPSLVLSSDSMHIGVLAAAAAHATATNSRFTVFYNPRASPSEFVIPLAKYEKAIYHTRISAGMRFRMLFETEESSVRRYMGTITGFGDLDPARWPNSQWRSVKVGWDESTAGERQPRVSLWEIEPLTTFLMYPPPYPLRLKRPWPQLQGMSSIPGINDDCKMMKSIMWTGGDNGEQHLQGLNFQGLGMDPWMQMQDRFDSSVAGVQPDMYKSMAAAALQEIRSVDSSKQLLQLQPQQPVQSQQLHCVPQPLVHRQIFHQHQYPQHILQQRAQNLQQQQQSQQNIHQQQAQSTQQQQPHHHILQQQALNVLPQQTPQHVVTQHAQNQQQQQQSSQHQVLQQLQQSYVEQKQSTSQQVQCQQQTFKISHVAGALSQTPVSLDSPISLPSNVSSQPVLADSNANIAASHASLSTACPLQSILHSLASDESSHYPNMQRAIQPRMPQPSRNLTGPLSQDRQAASASCHSSRRVSNNQMESCPPAGQVESPLPSGGQSVSQTQPTGLSGGLDENGLLQCTPSLSQLNPPTRTFTKVYKLGSIGRSVDVTRFSGYHELSELACMFGLEGQLEDPCRSGWQLVFIDKENDVLLLGDDPWEEFVNSVRSIRLSPPEVLQMTQEGMEWLNSISVQQQTSSSSEECVTGQDSRNISSCITSDRSLDY |
+| 2160 | pinusRadiata_012177 | MEIDLNSPDEYSNGRLNSSEEALASKSSICMELWHACAGPLISLPRKGTLVVFYFPQGHLEQASTSLKQQQMRPYELPPQIFCRVLNVNLHADQETDEVYAQVTLVPEPEPLEDAVGDKEEEEDVLNKPTPHMFCKTLTASDTSTHGGFSVPRRAAEDCFPPLDYTQQRPSQUELLAKDLHGVEWKFRHIYRGQPRRHLLTTGWSVFVSHKGLVSGDAVLFLRGENGELRLGIRRAATRQKSGILSSVLSNQNAHLSVLAAAAASAVATKSMFHVFYNPRTSPAEFIIPYQKYVKSCQPLSIGMRFKMRFETEDTAERRYTGMITAIGDADPARWPGSKWRFLKVEWDEHAANEQQERVSAWEIEPSIAGAGLNVSSGTRTKRLRTTLLSTPVDVAIPDGSRLSDFEESVRFQKVLQGQENMSFKAPSRNDGVGFMKCPILERKGCNAAEGFETARTENAIWSSLERSDISSRLLDFGESIRFQKVLQGQEILPSKASLTSAGVDLMKFQHWDCKGYHAEGSEGAMHGHKSWPSLGRPNVAPFSDVLSNKKGKFGNAYGSDKIRSVEYSCEQFSNTNTPHLKVFTKPHSGGNHATCTVNSQNLATIPRASPLSSIFGSRTRNDSELCVQGTYPMCRMNVFQKNDLYGDYSQTFNRDLSAQFDIPKMAVGWQASSVSHCDSDNTQPAGYTAGLSSSEPSKKQEKLIEVFLKQHQLPIGFHSTETDRGEIQGKQCKLFGFSLIEEPACMDDVISSSIPHGDITQEGLPAIYGHGTVHSSISQNQDNLLKSSADRSGPPEALKGSAQQKTFQAVSGLSTLVQTPGRRRTKVHKQGNVVGRAVDLSKLDGYDQLICELERLFDMEGLLNDPKKGWQVLYTDNEDDMMLVGDDPWQEFNCNIACKILIYTHDEVQKMTPSMFSDDANSSEEQPSTVEVSKSSIDNQDSSSPLMTGNQ |
+| 2161 | pinusRadiata_013780 | MEIDLNSPDEYSNGRLNSSEEALASKSSICMELWHACAGPLISLPRKGTLVVFYFPQGHLEQASTSLKQQQMRPYELPPQIFCRVLNVNLHADQETDEVYAQVTLVPEPEPLEDAVGDKEEEEDVLNKPTPHMFCKTLTASDTSTHGGFSVPRRAAEDCFPPLDYTQQRPSQUELLAKDLHGVEWKFRHIYRGQPRRHLLTTGWSVFVSHKGLVSGDAVLFLRGENGELRLGIRRAATRQKSGILSSVLSNQNAHLSVLAAAAASAVATKSMFHVFYNPRTSPAEFIIPYQKYVKSCQPLSIGMRFKMRFETEDTAERRYTGMITAIGDADPARWPGSKWRFLKVEWDEHAANEQQERVSAWEIEPSIAGAGLNVSSGTRTKRLRTTLLSTPVDVAIPDGSRLSDFEESVRFQKVLQGQENMSFKAPSRNDGVGFMKCPILERKGCNAAEGFETARTENAIWSSLERSDISSRLLDFGESIRFQKVLQGQEILPSKASLTSAGVDLMKFQHWDCKGYHAEGSEGAMHGHKSWPSLGRPNVAPFSDVLSNKKGKFGNAYGSDKIRSVEYSCEQFSNTNTPHLKVFTKPHSGGNHATCTVNSQNLATIPRASPLSSIFGSRTRNDSELCVQGTYPMCRMNVFQKNDLYGDYSQTFNRDLSAQFDIPKMAVGWQASSVSHCDSDNTQPAGYTAGLSSSEPSKKQEKLIEVFLKQHQLPIGFHSTETDRGEIQGKQCKLFGFSLIEEPACMDDVISSSIPHGDITQEGLPAIYGHGTVHSSISQNQDNLLKSSADRSGPPEALKGSAQQKTFQAVSGLSTLVQTPGRRRTKVHKQGNVVGRAVDLSKLDGYDQLICELERLFDMEGLLNDPKKGWQVLYTDNEDDMMLVGDDPWQEFNCNIACKILIYTHDEVQKMTPSMFSDDANSSEEQPSTVEVSKSSIDNQDSSSPLMTGNQ |
+```
+```markdown
+Table 1. Eucalyptus grandis polysaccharide synthesis genes
+
+| DNA SEQ ID | Consensus ID | Target | Curated DNA seq |
+|------------|--------------|--------|-----------------|
+| 1          |              | Cellulose synthase GDP forming | GGGGAAAAAGCAACCATATAAAAACATTGCCATTTCGCACAGGAACAGAACGACGAGATCATGGAGGCCAGGGCGGGACTTGTGTGCAGGTTTCCTATAAGCGGAACGAGCTTATGGTAGTCCCTGGGACACGATGGGGCCCAAGCCCCATCAGGCTATCCACCCCTCCAGGATTGCCAAGTCTGCGGAGATAAAATCGGCTGCAACCCGAATGGGGAACTATTCGTGGCCTGCAACGAGTGTGGATTCCCTGTGTGTGTCGTCCC TGTTATGAGTACGAGAGAAAGGATGGGAACCGGTGCTGCCCTCAGTGCAAGAACTCGGGTACAGGC GTCACAAAGGGAGTCCCCGGGTTGAAGGCGATGATGAAGAAGATGGCATGGACGACTTAGAACAAGAATTCAACATGGAAAAGAGATCGCCAAAGCGTAGTCAGTCACAGAGGAAACGCCTTCGACGCTACTCCTCGGGCTGCCACAGTATCGCTAACC GCTCGATAAAATGGAGATAATTATGCACCTTTCCCTTCCTCCGATCATGGATGGCGACAGTTTAAGTGTTCAGCGTTTTCCACATGCAGCTACTGTGATTGGAAATGGATTAGATCCAGTCAAAGAGAACTATGGGAGTGCTGCATGGAAAGGAGAGAGAGTGGAGAATTGGAAAAGCGAAGCACGATAAAGAAAAAGTGGCAGCATCAAGGATGGCATATATGATCCAGACAGAGGCCGATGATAATGATGACTGAAGCCGAAGCGAGACAGCCTTTTCGCGTAAGGTGCCAATCCCTCCAGTCTAATCAATCCCTACAGAATTGTTATTGTGTTGCGTTTGATAATTCTGGGATTCTTCTTCCGCTACCGATTGATGAATCCTGCCAAGGACGCACTTGGCCTCTGGTTGACCTCCATTATCTCGAGATCTGGTTTCGCCTTCTCCTGGATTCTTGATCAGTTCCCCAAGTGGTTTCCCATCACTAGAGAAACTTATCTCGACAGATTATCTATGAGATACGAGAGGGAAGGAGAGGCCTTGCAAGCT |
+```
+```markdown
+Table 5. Oligonucleotide sequences
+
+| SEQ ID | Consensus ID Target | Oligonucleotide Sequence |
+| --- | --- | --- |
+| 59 | eucalyptusSpp 003922 | AGGCGGTTTGAAATGGTTAGAGCGATTATCTTACATAA ACGCCACAGTATAACCCCTGGAC |
+| 60 | eucalyptusSpp 004683 | GTGAGAGAGAGAGCCCCACTCTCAAGGCCAGGTTCTATACTTGCAACAAAAGTGTTCCTTTGG |
+| 61 | eucalyptusSpp 005009 | TCATGCTTTTCATGGAGAGGGTCTACATGGGCATCGTCA TCGTCCTCGTCAAGCTCTTCT |
+| 62 | eucalyptusSpp 008124 | ACACAGTTCTGTCAATATTGGCTATGGACTATCCAGTCG ATAAGATTTCCCTGCTACGTTT |
+| 63 | eucalyptusSpp 008896 | CGTCCGTCTTCATCGATAAGTAATTGTCTTATTTTGCTC AGCTGTTGGATTTCGTGATCAG |
+| 64 | eucalyptusSpp 012804 | GAGAGTCCTTGTCACAGCGAACCCATGCAAGAAGGTAAC TACAGCTAATCTCATGGATTTGAA |
+| 65 | eucalyptusSpp 016249 | GATGGGATTGATCGTCACGATCGATACTCTAACAGGAA TGTCGTATTCTTCGATATCAAC |
+| 66 | eucalyptusSpp 016939 | TTTTGATGTCCCTACGGTGACAATGGTACATGCTCGTTA CTTGGTGAGTTATTCTTGTT |
+| 67 | eucalyptusSpp 017058 | CAAGTCAACGAACTTGTATGTATACGGAACCATAGACCG CGATTATGACACAAATCGGCAT |
+| 68 | eucalyptusSpp 017442 | no oligo |
+| 69 | eucalyptusSpp 017462 | AAAAAAGACCATTCCCTTATTTTAAGGGAAACGATGATCT AGCATTGGTCCAGACGAGATGG |
+| 70 | eucalyptusSpp 017488 | AATCCCTCTTCTTAACCAATGGGCAGCCGATGTCTGGTGAA ATCCCTTGTTGCTAGTATTGA |
+| 71 | eucalyptusSpp 017722 | TCCGAAGTGGTTTCCAGTAATCGTGAAACGTATCTCG ACAGACTAGCCATTAGGTATGA |
+| 72 | eucalyptusSpp 022868 | AAAATAAAACACGTTTGAGTGAAATTTGTTTGTTGTGAG GAGCATTGTATATTTGTGCC |
+| 73 | eucalyptusSpp 023490 | GTTCGGTTCCAGGTAATTCAATGAGTATAATTAGTCCAT TAGGGTTGTAAGGACCCCTTGTC |
+| 74 | eucalyptusSpp 027512 | ATTCCGATTGCCTCTTTAGCACGTGCGAAGGTGCATGTG AGCCTCTACATATGCACCGAT |
+| 75 | pinusRadiata_0 00531 | TTTATATCCGTGGAATGTAATTCAATTAACGCGTGCCCAT AATTAGGCAGCTTTTACGAGT |
+| 76 | pinusRadiata_0 02922 | TCAAACATCCATTTGCTGGTCAACCATGTCTATTCCAAA ATTAATTTGCCATTTCGGAAAG |
+| 77 | pinusRadiata_0 03920 | GAATTTGATGTTTTTAACGGCTGTGATTGCCTATATTT GTTTCATTCTGTACTACGGAT |
+| 78 | pinusRadiata_0 17730 | TCTGTATCTCAGATGTTGTCTAGCTTTTAATGTATTTCAGC AAGCGGTGTGAGATAAAGTTT |
+| 79 | pinusRadiata_0 27109 | TATTCCAGAGGTACTACCCTTGACATTTCATGCCCTATAT TAACATTGTATCTGAGTTGGC |
+| 80 | pinusRadiata_0 00892 | TGATGATGTCACATAATCCACAGGAATGATCCGTCAAC AATTCAAGATACTTTGCAATTGA |
+| 81 | pinusRadiata_0 13907 | GAACAAGGTTCCGTTGTAACACTCATGGGTCCCTGATTAG |
+| 82 | pinusRadiata_0 26937 | TTGCCCTTGTAATGTTCTTTGACACTAACTGGAGACCTG ATTTTAGGCCTAAGATTCAAGT |
+| 83 | pinusRadiata_0 27496 | AAATTGCCAAAGTCGCGACATATATAGATAGTACAACGT GTTCTAATTACCACGTTTTTC |
+```
+```markdown
+Table 1
+
+| SEQ ID NO | Expression pattern |
+|-----------|--------------------|
+| 22        | Increased expression |
+| 28        | Specific expression in X2 xylem. |
+```
+```markdown
+### Table 6. In silico hybridization data for E. grandis
+
+| SEQ ID | Cons ID | Total number of ESTs | reproductive tissues | reproductive buds | vegetative buds | fruit | leaf | phloem | cambium | xylem | stem | root |
+|--------|---------|----------------------|----------------------|-------------------|-----------------|-------|-------|--------|---------|-------|------|------|
+| 14     | eucalyptus Spp_017462 | 4                    |                      |                   |                 |       |       | 0.82   | 0.17    |       |      |      |
+| 5      | eucalyptus Spp_005009 | 8                    |                      |                   |                 |       |       | 0.08   | 0.06    |       | 0.24 |      |
+| 18     | eucalyptus Spp_023490 | 9                    | 2.73                 | 2.90              |                 |       |       |        |         |       |      |      |
+| 10     | eucalyptus Spp_016249 | 17                   | 0.33                 | 0.24              | 1.00            | 0.17  | 0.06  | 3.43   | 0.13    |       | 0.08 |      |
+| 16     | eucalyptus Spp_017722 | 1                    |                      |                   |                 |       |       |        |         |       |      |      |
+| 3      | eucalyptus Spp_003922 | 7                    | 1.45                 |                   |                 |       |       | 0.19   | 1.56    |       |      |      |
+| 8      | eucalyptus Spp_008896 | 64                   | 0.68                 |                   |                 | 0.17  |       | 0.37   | 17.48   | 0.08  |      |      |
+| 9      | eucalyptus Spp_012804 | 14                   | 1.84                 |                   | 0.69            | 0.17  | 0.06  |        |         |       |      |      |
+| 11     | eucalyptus Spp_016939 | 3                    |                      |                   |                 | 0.08  | 0.99  |        | 0.17    |       |      |      |
+| 12     | eucalyptus Spp_017722 | 2                    |                      |                   |                 | 0.83  |       |        |         |       |      |      |
+
+### Table 7. In silico hybridization data for P. radiata
+
+| SEQ ID | Cons ID | Total number of ESTs | female cones | Reproductive buds | Vegetative buds | Vegetative meristem | callus | vascular | phloem | Cambium | xylem |
+|--------|---------|----------------------|--------------|-------------------|-----------------|---------------------|---------|-----------|---------|---------|--------|
+| 20     | pinusRadiata_000531 | 17              |              |                   |                 |                     |         |           |         | 0.19    | 1.91   |
+| 21     | pinusRadiata_002922 | 3               |              |                   |                 |                     |         |           |         | 0.15    |        |
+| 23     | pinusRadiata_01773  | 11              |              |                   |                 |                     |         |           |         | 0.46    |        |
+| 24     | pinusRadiata_027109 | 9               |              |                   |                 |                     |         |           |         | 1.45    |        |
+| 25     | pinusRadiata_000892 | 26              | 0.15         |                   | 0.14            |                     |         |           | 0.36    | 0.82    | 0.58   | 1.12   |
+| 27     | pinusRadiata_013907 | 16              | 0.11         | 0.16              |                 |                     |         |           | 0.41    |         | 0.17   |
+| 28     | pinusRadiata_026937 | 3               | 0.39         |                   |                 |                     |         |           |         |         |        |
+| 29     | pinusRadiata_027496 | 2               |              |                   |                 |                     |         |           |         |         | 0.37   |
+| 22     | pinusRadiata_003920 | 94              |              |                   | 0.14            | 0.27                | 0.18    | 0.06     | 1.99    | 22.24   |
+| 26     | pinusRadiata_008513 | 12              | 0.15         |                   |                 |                     | 0.22    | 0.06     | 0.05    |         |        |
+```
+```markdown
+### Table 6. In silico hybridization data for E. grandis
+
+| SEQ ID | Cons ID | Total number of ESTs | reproductive tissues | reproductive buds | vegetative buds | fruit | leaf | phloem | cambium | xylem | stem | root |
+|--------|---------|----------------------|----------------------|-------------------|-----------------|-------|-------|--------|---------|-------|------|------|
+| 14     | eucalyptus Spp_017462 | 4                    |                      |                   |                 |       |       | 0.82   | 0.17    |       |      |      |
+| 5      | eucalyptus Spp_005009 | 8                    |                      |                   |                 |       |       | 0.08   | 0.06    |       | 0.24 |      |
+| 18     | eucalyptus Spp_023490 | 9                    | 2.73                 | 2.90              |                 |       |       |        |         |       |      |      |
+| 10     | eucalyptus Spp_016249 | 17                   | 0.33                 | 0.24              | 1.00            | 0.17  | 0.06  | 3.43   | 0.13    |       | 0.08 |      |
+| 16     | eucalyptus Spp_017722 | 1                    |                      |                   |                 |       |       |        |         |       |      |      |
+| 3      | eucalyptus Spp_003922 | 7                    | 1.45                 |                   |                 |       |       | 0.19   | 1.56    |       |      |      |
+| 8      | eucalyptus Spp_008896 | 64                   | 0.68                 |                   |                 | 0.17  |       | 0.37   | 17.48   | 0.08  |      |      |
+| 9      | eucalyptus Spp_012804 | 14                   | 1.84                 |                   | 0.69            | 0.17  | 0.06  |        |         |       |      |      |
+| 11     | eucalyptus Spp_016939 | 3                    |                      |                   |                 | 0.08  | 0.99  |        | 0.17    |       |      |      |
+| 12     | eucalyptus Spp_017722 | 2                    |                      |                   |                 | 0.83  |       |        |         |       |      |      |
+
+### Table 7. In silico hybridization data for P. radiata
+
+| SEQ ID | Cons ID | Total number of ESTs | female cones | Reproductive buds | Vegetative buds | Vegetative meristem | callus | vascular | phloem | Cambium | xylem |
+|--------|---------|----------------------|--------------|-------------------|-----------------|---------------------|---------|-----------|---------|---------|--------|
+| 20     | pinusRadiata_000531 | 17              |              |                   |                 |                     |         |           |         | 0.19    | 1.91   |
+| 21     | pinusRadiata_002922 | 3               |              |                   |                 |                     |         |           |         | 0.15    |        |
+| 23     | pinusRadiata_01773  | 11              |              |                   |                 |                     |         |           |         | 0.46    |        |
+| 24     | pinusRadiata_027109 | 9               |              |                   |                 |                     |         |           |         | 1.45    |        |
+| 25     | pinusRadiata_000892 | 26              | 0.15         |                   | 0.14            |                     |         |           | 0.36    | 0.82    | 0.58   | 1.12   |
+| 27     | pinusRadiata_013907 | 16              | 0.11         | 0.16              |                 |                     |         |           | 0.41    |         | 0.17   |
+| 28     | pinusRadiata_026937 | 3               | 0.39         |                   |                 |                     |         |           |         |         |        |
+| 29     | pinusRadiata_027496 | 2               |              |                   |                 |                     |         |           |         |         | 0.37   |
+| 22     | pinusRadiata_003920 | 94              |              |                   | 0.14            | 0.27                | 0.18    | 0.06     | 1.99    | 22.24   |
+| 26     | pinusRadiata_008513 | 12              | 0.15         |                   |                 |                     | 0.22    | 0.06     | 0.05    |         |        |
+```
+```markdown
+### Table 6. In silico hybridization data for E. grandis
+
+| SEQ ID | Cons ID | Total number of ESTs | reproductive tissues | reproductive buds | vegetative buds | fruit | leaf | phloem | cambium | xylem | stem | root |
+|--------|---------|----------------------|----------------------|-------------------|-----------------|-------|-------|--------|---------|-------|------|------|
+| 14     | eucalyptus Spp_017462 | 4                    |                      |                   |                 |       |       | 0.82   | 0.17    |       |      |      |
+| 5      | eucalyptus Spp_005009 | 8                    |                      |                   |                 |       |       | 0.08   | 0.06    |       | 0.24 |      |
+| 18     | eucalyptus Spp_023490 | 9                    | 2.73                 | 2.90              |                 |       |       |        |         |       |      |      |
+| 10     | eucalyptus Spp_016249 | 17                   | 0.33                 | 0.24              | 1.00            | 0.17  | 0.06  | 3.43   | 0.13    |       | 0.08 |      |
+| 16     | eucalyptus Spp_017722 | 1                    |                      |                   |                 |       |       |        |         |       |      |      |
+| 3      | eucalyptus Spp_003922 | 7                    | 1.45                 |                   |                 |       |       | 0.19   | 1.56    |       |      |      |
+| 8      | eucalyptus Spp_008896 | 64                   | 0.68                 |                   |                 | 0.17  |       | 0.37   | 17.48   | 0.08  |      |      |
+| 9      | eucalyptus Spp_012804 | 14                   | 1.84                 |                   | 0.69            | 0.17  | 0.06  |        |         |       |      |      |
+| 11     | eucalyptus Spp_016939 | 3                    |                      |                   |                 | 0.08  | 0.99  |        | 0.17    |       |      |      |
+| 12     | eucalyptus Spp_017722 | 2                    |                      |                   |                 | 0.83  |       |        |         |       |      |      |
+
+### Table 7. In silico hybridization data for P. radiata
+
+| SEQ ID | Cons ID | Total number of ESTs | female cones | Reproductive buds | Vegetative buds | Vegetative meristem | callus | vascular | phloem | Cambium | xylem |
+|--------|---------|----------------------|--------------|-------------------|-----------------|---------------------|---------|-----------|---------|---------|--------|
+| 20     | pinusRadiata_000531 | 17              |              |                   |                 |                     |         |           |         | 0.19    | 1.91   |
+| 21     | pinusRadiata_002922 | 3               |              |                   |                 |                     |         |           |         | 0.15    |        |
+| 23     | pinusRadiata_01773  | 11              |              |                   |                 |                     |         |           |         | 0.46    |        |
+| 24     | pinusRadiata_027109 | 9               |              |                   |                 |                     |         |           |         | 1.45    |        |
+| 25     | pinusRadiata_000892 | 26              | 0.15         |                   | 0.14            |                     |         |           | 0.36    | 0.82    | 0.58   | 1.12   |
+| 27     | pinusRadiata_013907 | 16              | 0.11         | 0.16              |                 |                     |         |           | 0.41    |         | 0.17   |
+| 28     | pinusRadiata_026937 | 3               | 0.39         |                   |                 |                     |         |           |         |         |        |
+| 29     | pinusRadiata_027496 | 2               |              |                   |                 |                     |         |           |         |         | 0.37   |
+| 22     | pinusRadiata_003920 | 94              |              |                   | 0.14            | 0.27                | 0.18    | 0.06     | 1.99    | 22.24   |
+| 26     | pinusRadiata_008513 | 12              | 0.15         |                   |                 |                     | 0.22    | 0.06     | 0.05    |         |        |
+```
+```markdown
+### Table 6. In silico hybridization data for E. grandis
+
+| SEQ ID | Cons ID | Total number of ESTs | reproductive tissues | reproductive buds | vegetative buds | fruit | leaf | phloem | cambium | xylem | stem | root |
+|--------|---------|----------------------|----------------------|-------------------|-----------------|-------|-------|--------|---------|-------|------|------|
+| 14     | eucalyptus Spp_017462 | 4                    |                      |                   |                 |       |       | 0.82   | 0.17    |       |      |      |
+| 5      | eucalyptus Spp_005009 | 8                    |                      |                   |                 |       |       | 0.08   | 0.06    |       | 0.24 |      |
+| 18     | eucalyptus Spp_023490 | 9                    | 2.73                 | 2.90              |                 |       |       |        |         |       |      |      |
+| 10     | eucalyptus Spp_016249 | 17                   | 0.33                 | 0.24              | 1.00            | 0.17  | 0.06  | 3.43   | 0.13    |       | 0.08 |      |
+| 16     | eucalyptus Spp_017722 | 1                    |                      |                   |                 |       |       |        |         |       |      |      |
+| 3      | eucalyptus Spp_003922 | 7                    | 1.45                 |                   |                 |       |       | 0.19   | 1.56    |       |      |      |
+| 8      | eucalyptus Spp_008896 | 64                   | 0.68                 |                   |                 | 0.17  |       | 0.37   | 17.48   | 0.08  |      |      |
+| 9      | eucalyptus Spp_012804 | 14                   | 1.84                 |                   | 0.69            | 0.17  | 0.06  |        |         |       |      |      |
+| 11     | eucalyptus Spp_016939 | 3                    |                      |                   |                 | 0.08  | 0.99  |        | 0.17    |       |      |      |
+| 12     | eucalyptus Spp_017722 | 2                    |                      |                   |                 | 0.83  |       |        |         |       |      |      |
+
+### Table 7. In silico hybridization data for P. radiata
+
+| SEQ ID | Cons ID | Total number of ESTs | female cones | Reproductive buds | Vegetative buds | Vegetative meristem | callus | vascular | phloem | Cambium | xylem |
+|--------|---------|----------------------|--------------|-------------------|-----------------|---------------------|---------|-----------|---------|---------|--------|
+| 20     | pinusRadiata_000531 | 17              |              |                   |                 |                     |         |           |         | 0.19    | 1.91   |
+| 21     | pinusRadiata_002922 | 3               |              |                   |                 |                     |         |           |         | 0.15    |        |
+| 23     | pinusRadiata_01773  | 11              |              |                   |                 |                     |         |           |         | 0.46    |        |
+| 24     | pinusRadiata_027109 | 9               |              |                   |                 |                     |         |           |         | 1.45    |        |
+| 25     | pinusRadiata_000892 | 26              | 0.15         |                   | 0.14            |                     |         |           | 0.36    | 0.82    | 0.58   | 1.12   |
+| 27     | pinusRadiata_013907 | 16              | 0.11         | 0.16              |                 |                     |         |           | 0.41    |         | 0.17   |
+| 28     | pinusRadiata_026937 | 3               | 0.39         |                   |                 |                     |         |           |         |         |        |
+| 29     | pinusRadiata_027496 | 2               |              |                   |                 |                     |         |           |         |         | 0.37   |
+| 22     | pinusRadiata_003920 | 94              |              |                   | 0.14            | 0.27                | 0.18    | 0.06     | 1.99    | 22.24   |
+| 26     | pinusRadiata_008513 | 12              | 0.15         |                   |                 |                     | 0.22    | 0.06     | 0.05    |         |        |
+```
+```markdown
+Table I: Potentiometric Indicators
+
+| Dyes | Structure (Charge) | Optical Response |
+| --- | --- | --- |
+| ANEP dyes (aminonaphthyl-ethenylpyridinium) | Styryl (cationic or zwitterionic) | FAST; fluorescence excitation ratio 440/505 nm decreases upon membrane depolarization |
+| RH dyes (Rina Hildesheim) | Styryl (cationic or zwitterionic) | FAST; generally similar to ANEP dyes with excitation red shift upon membrane hyperpolarization |
+| Impermeant Oxonols (oxonol dyes with phenylsulfonate substituents) | Hybrid oxonol (anionic) | FAST; absorbance changes upon membrane hyperpolarization |
+| Carbocyanines (Indo-DiI), thia (DiS) and oxa- (DiO) carbocyanines with short (n=1-7) alkyl tails | Carbocyanine (cationic) | SLOW; fluorescence generally decreases upon membrane hyperpolarization |
+| Rhodamine and the methyl and ethyl esters of tetramethylrhodamine | Rhodamine (cationic) | SLOW; used to obtain unbiased images of potential-dependent dye distribution |
+| Oxonols | Oxonol (anionic) | SLOW; fluorescence decreases upon membrane hyperpolarization |
+| DiBAC Dyes (bis-barbituric acid oxonols) | Oxonol (anionic) | SLOW; fluorescence decreases upon membrane hyperpolarization |
+```
+```markdown
+Table I
+
+| Poly-nucleotide No. | CDNA CloneID | ATCC Deposit No. Z and Date | Vector | NT SEQ ID. No. X | Total NT Seq of Clone | 5' NT of Start Codon of ORF | 3' NT of ORF | AA Seq ID No. Y | Total AA of ORF |
+|---------------------|--------------|------------------------------|--------|------------------|------------------------|-----------------------------|--------------|-----------------|------------------|
+| 1                   | Human AdipoR2v1, (also referred to as hAdipoR2v1) | XXXXX Xx/Xx/Xx               | N/A    | 1                | 1585                   | 210                         | 1367         | 2               | 386              |
+| 2                   | Mouse AdipoR2v1 (also referred to as mAdipoR2v1) | XXXXX Xx/Xx/Xx               | N/A    | 3                | 3975                   | 153                         | 1310         | 4               | 386              |
+| 3                   | Human AdipoR3 | XXXXX Xx/Xx/Xx               | N/A    | 5                | 867                    | 1                          | 864                       | 6               | 288              |
+| 4                   | Human AdipoR3v1 | XXXXX Xx/Xx/Xx               | N/A    | 101              | 1146                   | 1                          | 1143          | 102             | 381              |
+| 5                   | Human AdipoR2v2 | XXXXX Xx/Xx/Xx               | N/A    | 103              | 1738                   | 207                        | 1469          | 104             | 421              |
+| 6                   | Rat AdipoR1  | XXXXX Xx/Xx/Xx               | N/A    | 164              | 1442                   | 225                        | 1349          | 165             | 375              |
+| 7                   | Rat AdipoR2  | XXXXX Xx/Xx/Xx               | N/A    | 166              | 1369                   | 130                        | 1287          | 167             | 386              |
+```
+Human AdipoR2v2
+
+| Protein | Genbank Accession/SEQ ID NO | Identities | Similarities |
+| --- | --- | --- | --- |
+| human AdipoR1 protein | gi|NM_015999 | 60.7% | 70.4% |
+| human AdipoR2v1 protein | SEQ ID NO:2 | 91.4% | 91.4% |
+| Human AdipoR3 | SEQ ID NO:6 | 37.1% | 44.2% |
+
+Human AdipoR3v1
+
+| Protein | Genbank Accession | Identities | Similarities |
+| --- | --- | --- | --- |
+| human AdipoR1 protein | gi|NM_015999 | 79.9% | 83.0% |
+| human AdipoR2v1 protein | SEQ ID NO:2 | 53.9% | 63.9% |
+| Human AdipoR3 | SEQ ID NO:6 | 70.2% | 71.0% |
+Human AdipoR2v2
+
+| Protein | Genbank Accession/SEQ ID NO | Identities | Similarities |
+| --- | --- | --- | --- |
+| human AdipoR1 protein | gi|NM_015999 | 60.7% | 70.4% |
+| human AdipoR2v1 protein | SEQ ID NO:2 | 91.4% | 91.4% |
+| Human AdipoR3 | SEQ ID NO:6 | 37.1% | 44.2% |
+
+Human AdipoR3v1
+
+| Protein | Genbank Accession | Identities | Similarities |
+| --- | --- | --- | --- |
+| human AdipoR1 protein | gi|NM_015999 | 79.9% | 83.0% |
+| human AdipoR2v1 protein | SEQ ID NO:2 | 53.9% | 63.9% |
+| Human AdipoR3 | SEQ ID NO:6 | 70.2% | 71.0% |
+```markdown
+Table 1: GPCR Clone 80mer Cloning Oligo Sequence
+
+| GPCR Clone | 80mer Cloning Oligo Sequence                                                                 |
+|------------|-----------------------------------------------------------------------------------------------|
+| human AdipoR2v1 | gatcttttatatgtttcgcccaaatatctcctttgtggcccccctctgcaagagaagggtggcttttgaggattattttcttag (SEQ ID NO:54) |
+| mouse AdipoR2v1 | ggcccctctgcaagagaaagtggcttttggcctttgtctttcttgggagccattctctgcctttccctttcatggctcttcc (SEQ ID NO:55) |
+| human AdipoR3 | ggacacatctgcttggtttcgtgctgtttctctttttggaatcttgaccatgctcagacccaaatatgacttcacggcc (SEQ ID NO:56) |
+
+Table 2: Primer Name and Sequence
+
+| Primer Name | Sequence                                                                 | SEQ ID NO: |
+|-------------|--------------------------------------------------------------------------|------------|
+| Primer Set A - Forward | ATGTCTTCTCACAAAGGGTCTGTGGTGGAACAA | 154        |
+| Primer Set A - Reverse | TCAGAGTTTCAGCCAGTTCCACCATG | 155        |
+| Primer Set B - Forward | CTGGCTGAATCTGAATTGTTCACCCCTGC | 156        |
+| Primer Set B - Reverse | GCTTGCTCTGGAGCTTGTACACAAACTCCT | 157        |
+| Primer Set C - Forward | AGGAGTTTGTGTACAAGCTCCAGACAAGCTGC | 158        |
+| Primer Set C - Reverse | GAGCACTGCACCCAAAAGGAATATCCT | 159        |
+| Primer Set D - Forward | TTTGGGTGCAGTGCTCAGCCTCAGC | 160        |
+| Primer Set D - Reverse | TCACAATGATGGCAGAGATGCCCAAGGAC | 161        |
+| Primer Set E - Forward | CATCTCTGCCATCATTTGTGGACCAGTGGAAC | 162        |
+| Primer Set E - Reverse | TCAGAGAAGGGAGTCATCAGTGCA | 163        |
+```
+```markdown
+Table 1: GPCR Clone 80mer Cloning Oligo Sequence
+
+| GPCR Clone | 80mer Cloning Oligo Sequence                                                                 |
+|------------|-----------------------------------------------------------------------------------------------|
+| human AdipoR2v1 | gatcttttatatgtttcgcccaaatatctcctttgtggcccccctctgcaagagaagggtggcttttgaggattattttcttag (SEQ ID NO:54) |
+| mouse AdipoR2v1 | ggcccctctgcaagagaaagtggcttttggcctttgtctttcttgggagccattctctgcctttccctttcatggctcttcc (SEQ ID NO:55) |
+| human AdipoR3 | ggacacatctgcttggtttcgtgctgtttctctttttggaatcttgaccatgctcagacccaaatatgacttcacggcc (SEQ ID NO:56) |
+
+Table 2: Primer Name and Sequence
+
+| Primer Name | Sequence                                                                 | SEQ ID NO: |
+|-------------|--------------------------------------------------------------------------|------------|
+| Primer Set A - Forward | ATGTCTTCTCACAAAGGGTCTGTGGTGGAACAA | 154        |
+| Primer Set A - Reverse | TCAGAGTTTCAGCCAGTTCCACCATG | 155        |
+| Primer Set B - Forward | CTGGCTGAATCTGAATTGTTCACCCCTGC | 156        |
+| Primer Set B - Reverse | GCTTGCTCTGGAGCTTGTACACAAACTCCT | 157        |
+| Primer Set C - Forward | AGGAGTTTGTGTACAAGCTCCAGACAAGCTGC | 158        |
+| Primer Set C - Reverse | GAGCACTGCACCCAAAAGGAATATCCT | 159        |
+| Primer Set D - Forward | TTTGGGTGCAGTGCTCAGCCTCAGC | 160        |
+| Primer Set D - Reverse | TCACAATGATGGCAGAGATGCCCAAGGAC | 161        |
+| Primer Set E - Forward | CATCTCTGCCATCATTTGTGGACCAGTGGAAC | 162        |
+| Primer Set E - Reverse | TCAGAGAAGGGAGTCATCAGTGCA | 163        |
+```
+```markdown
+Table 1: GPCR Clone 80mer Cloning Oligo Sequence
+
+| GPCR Clone | 80mer Cloning Oligo Sequence                                                                 |
+|------------|-----------------------------------------------------------------------------------------------|
+| human AdipoR2v1 | gatcttttatatgtttcgcccaaatatctcctttgtggcccccctctgcaagagaagggtggcttttgaggattattttcttag (SEQ ID NO:54) |
+| mouse AdipoR2v1 | ggcccctctgcaagagaaagtggcttttggcctttgtctttcttgggagccattctctgcctttccctttcatggctcttcc (SEQ ID NO:55) |
+| human AdipoR3 | ggacacatctgcttggtttcgtgctgtttctctttttggaatcttgaccatgctcagacccaaatatgacttcacggcc (SEQ ID NO:56) |
+
+Table 2: Primer Name and Sequence
+
+| Primer Name | Sequence                                                                 | SEQ ID NO: |
+|-------------|--------------------------------------------------------------------------|------------|
+| Primer Set A - Forward | ATGTCTTCTCACAAAGGGTCTGTGGTGGAACAA | 154        |
+| Primer Set A - Reverse | TCAGAGTTTCAGCCAGTTCCACCATG | 155        |
+| Primer Set B - Forward | CTGGCTGAATCTGAATTGTTCACCCCTGC | 156        |
+| Primer Set B - Reverse | GCTTGCTCTGGAGCTTGTACACAAACTCCT | 157        |
+| Primer Set C - Forward | AGGAGTTTGTGTACAAGCTCCAGACAAGCTGC | 158        |
+| Primer Set C - Reverse | GAGCACTGCACCCAAAAGGAATATCCT | 159        |
+| Primer Set D - Forward | TTTGGGTGCAGTGCTCAGCCTCAGC | 160        |
+| Primer Set D - Reverse | TCACAATGATGGCAGAGATGCCCAAGGAC | 161        |
+| Primer Set E - Forward | CATCTCTGCCATCATTTGTGGACCAGTGGAAC | 162        |
+| Primer Set E - Reverse | TCAGAGAAGGGAGTCATCAGTGCA | 163        |
+```
+```markdown
+Table 1: GPCR Clone 80mer Cloning Oligo Sequence
+
+| GPCR Clone | 80mer Cloning Oligo Sequence                                                                 |
+|------------|-----------------------------------------------------------------------------------------------|
+| human AdipoR2v1 | gatcttttatatgtttcgcccaaatatctcctttgtggcccccctctgcaagagaagggtggcttttgaggattattttcttag (SEQ ID NO:54) |
+| mouse AdipoR2v1 | ggcccctctgcaagagaaagtggcttttggcctttgtctttcttgggagccattctctgcctttccctttcatggctcttcc (SEQ ID NO:55) |
+| human AdipoR3 | ggacacatctgcttggtttcgtgctgtttctctttttggaatcttgaccatgctcagacccaaatatgacttcacggcc (SEQ ID NO:56) |
+
+Table 2: Primer Name and Sequence
+
+| Primer Name | Sequence                                                                 | SEQ ID NO: |
+|-------------|--------------------------------------------------------------------------|------------|
+| Primer Set A - Forward | ATGTCTTCTCACAAAGGGTCTGTGGTGGAACAA | 154        |
+| Primer Set A - Reverse | TCAGAGTTTCAGCCAGTTCCACCATG | 155        |
+| Primer Set B - Forward | CTGGCTGAATCTGAATTGTTCACCCCTGC | 156        |
+| Primer Set B - Reverse | GCTTGCTCTGGAGCTTGTACACAAACTCCT | 157        |
+| Primer Set C - Forward | AGGAGTTTGTGTACAAGCTCCAGACAAGCTGC | 158        |
+| Primer Set C - Reverse | GAGCACTGCACCCAAAAGGAATATCCT | 159        |
+| Primer Set D - Forward | TTTGGGTGCAGTGCTCAGCCTCAGC | 160        |
+| Primer Set D - Reverse | TCACAATGATGGCAGAGATGCCCAAGGAC | 161        |
+| Primer Set E - Forward | CATCTCTGCCATCATTTGTGGACCAGTGGAAC | 162        |
+| Primer Set E - Reverse | TCAGAGAAGGGAGTCATCAGTGCA | 163        |
+```
+```markdown
+Table 1: GPCR Clone and GSP Oligo Sequence
+
+| GPCR Clone | GSP Oligo Sequence |
+|------------|--------------------|
+| human AdipoR2v1-s, | gtattcttcctgtgcctggg (SEQ ID NO:59) |
+| human AdipoR2v1-a | agaaaggcagagaatggctc (SEQ ID NO:60) |
+| Mouse AdipoR2v1-s, | cgcccacaatatatcttttg (SEQ ID NO:61) |
+| mouse AdipoR2v1-a | ctgagtggcagtaacccgtg (SEQ ID NO:62) |
+| human AdipoR3-s, | ccatacagaaaccggcagcagcc (SEQ ID NO:63) |
+| human AdipoR3-a | ccaaatcaactttctcctgtagagg (SEQ ID NO:64) |
+```
+```markdown
+Table 1
+| Position in gene sequence: 433 | GC content: 61.9% | Sense strand siRNA: AGAAGACCCCUGGCUCUGGtt | Antisense strand siRNA: CCAGAGCCAGGGGUCUUUCUt |
+| --- | --- | --- | --- |
+| Position in gene sequence: 433 | GC content: 61.9% | Sense strand siRNA: AGCCAGAAGAGGCCACCGGtt | Antisense strand siRNA: CGCUGGGCCUCUUUCUGGCUtt |
+| Target sequence 23: AAGAGGCCAGCGATCTCATC | Target sequence 10: AACTTGCTGTTGCAGGCCAG | Position in gene sequence: 1442 | Target sequence 36: AAGACCCCTGGCTCTGGGACC |
+| Position in gene sequence: 1011 | GC content: 57.1% | Sense strand siRNA: GACCCCUGGCUCUGGGACCtt | Target sequence 37: AAGAATTAAAGCAGAAGAAAG |
+| Position in gene sequence: 463 | GC content: 57.1% | Sense strand siRNA: GAGGCCAGCGAUCUACUt | Target sequence 24: AACAGTCTGGCAGAGGTGCAC |
+| Position in gene sequence: 493 | GC content: 76.2% | Sense strand siRNA: CAGUCUGGCAGAGGUGCACtt | Target sequence 25: AAGGAGCCTCGAGAACTGTTT |
+| Position in gene sequence: 618 | GC content: 57.1% | Sense strand siRNA: CUUGCCCAUUGGCGGUtt | Target sequence 26: AACTGTTTGTAAGGGCACCA |
+| Position in gene sequence: 689 | GC content: 47.6% | Sense strand siRNA: GAGCGUUACUCUUGGACCAtt | Target sequence 27: AAGGGCACCATGAAGGACATT |
+| Position in gene sequence: 808 | GC content: 47.6% | Sense strand siRNA: UGUUUCUUUGGACCGAGCUtt | Target sequence 28: AAGGACATTCGTGAGAACTTC |
+| Position in gene sequence: 912 | GC content: 57.1% | Sense strand siRNA: AGACUGCCUCAGCGCAGUCUt | Target sequence 29: AACTTCCAGGACCTGATGCAG |
+| Position in gene sequence: 1135 | GC content: 38.1% | Sense strand siRNA: GAAAGCUAAGAAGGUGAAAGtt | Target sequence 30: AACCAGAACTGGGAGCGTTAC |
+| Position in gene sequence: 1147 | GC content: 38.1% | Sense strand siRNA: AGCUAAGAAGGUGAAGAAGtt | Target sequence 31: AACTGGGAGCGTTACCTGGCA |
+| Position in gene sequence: 1162 | GC content: 52.4% | Sense strand siRNA: CUGCAUCAGGUCCUGGAAGtt | Target sequence 32: AAGAAGTCGTTGATGGATCTG |
+| Position in gene sequence: 1312 | GC content: 52.4% | Sense strand siRNA: CCAGAACUGGGAGCGUUAAtt | Target sequence 33: AAGTCGTTGATGGATCTGGCC |
+| Position in gene sequence: 1318 | GC content: 57.1% | Sense strand siRNA: CUGGGAGCGUUACCUGGCAtt | Target sequence 34: AATGATGCCTGCCAGCTGCTC |
+| Position in gene sequence: 1378 | GC content: 42.9% | Sense strand siRNA: GAAGUCGUUGAUGGAUCUGtt | Target sequence 35: AAAGAAGACCCCTGGCTCTGG |
+| Position in gene sequence: 1402 | GC content: 57.1% | Sense strand siRNA: UGAUGCCUGCCAGCUCUAtt | Target sequence 38: AATTAAAGCAGAAGAAAGCTAAGAAG |
+| Position in gene sequence: 1478 | GC content: 28.6% | Sense strand siRNA: GAAUUUAAGCAGAAGAAAGtt | Target sequence 39: AAGCAGAAGAAAGCTAAGAAG |
+| Position in gene sequence: 1481 | GC content: 28.6% | Sense strand siRNA: UUUUAGCAGAAGAAAGCUAtt | Target sequence 40: AAGAAAAGCTAAGAAGGTGAAG |
+| Position in gene sequence: 1486 | GC content: 38.1% | Sense strand siRNA: GCAGAAGAAAGCUAAGAAGtt | Target sequence 41: AAAGCTAAGAAGGTGAAGAAG |
+| Position in gene sequence: 1492 | GC content: 38.1% | Sense strand siRNA: AGCUAAGAAGGUGAAGAAGtt | Target sequence 42: AAGAAGGTGAAGAAGGAACCA |
+| Position in gene sequence: 1495 | GC content: 38.1% | Sense strand siRNA: CUUCUUCACCUCUUUAGCUUt |  |
+| Position in gene sequence: 158 | GC content: 66.7% | Sense strand siRNA: AGACUGCCUCAGCGCAGUCUt |  |
+| Position in gene sequence: 22 | GC content: 76.2% | Sense strand siRNA: GGUGGCCGGCCACCGUtt |  |
+| Position in gene sequence: 257 | GC content: 57.1% | Sense strand siRNA: AUCUUCGGGCAAGGAGGGtt |  |
+| Position in gene sequence: 269 | GC content: 66.7% | Sense strand siRNA: GGAGGGGAGAUGCCUGGCGtt |  |
+| Position in gene sequence: 325 | GC content: 71.4% | Sense strand siRNA: GCACGGGCUCUGGGGGCAgt |  |
+| Position in gene sequence: 400 | GC content: 61.9% | Sense strand siRNA: CCUGGACCAGCACUUCCGtt |  |
+| Position in gene sequence: 463 | GC content: 57.1% | Sense strand siRNA: CUUGCUGUUGCAGGCCCAGtt |  |
+| Position in gene sequence: 493 | GC content: 76.2% | Sense strand siRNA: GCCCCCGCUUUGGGCCUGGtt |  |
+| Position in gene sequence: 618 | GC content: 57.1% | Sense strand siRNA: CUUGCCCCACAUUGGCGGUtt |  |
+| Position in gene sequence: 689 | GC content: 47.6% | Sense strand siRNA: GAGCGUUACUCUUGGACCAtt |  |
+| Position in gene sequence: 808 | GC content: 47.6% | Sense strand siRNA: UGUUUCUUUGGACCGAGCUtt |  |
+| Position in gene sequence: 912 | GC content: 57.1% | Sense strand siRNA: AGACUGCCUCAGCGCAGUCUt |  |
+| Position in gene sequence: 1135 | GC content: 38.1% | Sense strand siRNA: GAAAGCUAAGAAGGUGAAAGtt |  |
+| Position in gene sequence: 1147 | GC content: 38.1% | Sense strand siRNA: AGCUAAGAAGGUGAAGAAGtt |  |
+| Position in gene sequence: 1162 | GC content: 52.4% | Sense strand siRNA: CUGCAUCAGGUCCUGGAAGtt |  |
+| Position in gene sequence: 1312 | GC content: 52.4% | Sense strand siRNA: CCAGAACUGGGAGCGUUAAtt |  |
+| Position in gene sequence: 1318 | GC content: 57.1% | Sense strand siRNA: CUGGGAGCGUUACCUGGCAtt |  |
+| Position in gene sequence: 1378 | GC content: 42.9% | Sense strand siRNA: GAAGUCGUUGAUGGAUCUGtt |  |
+| Position in gene sequence: 1402 | GC content: 57.1% | Sense strand siRNA: UGAUGCCUGCCAGCUCUAtt |  |
+| Position in gene sequence: 1478 | GC content: 28.6% | Sense strand siRNA: GAAUUUAAGCAGAAGAAAGtt |  |
+| Position in gene sequence: 1481 | GC content: 28.6% | Sense strand siRNA: UUUUAGCAGAAGAAAGCUAtt |  |
+| Position in gene sequence: 1486 | GC content: 38.1% | Sense strand siRNA: GCAGAAGAAAGCUAAGAAGtt |  |
+| Position in gene sequence: 1492 | GC content: 38.1% | Sense strand siRNA: AGCUAAGAAGGUGAAGAAGtt |  |
+| Position in gene sequence: 1495 | GC content: 38.1% | Sense strand siRNA: CUUCUUCACCUCUUUAGCUUt |  |
+| Target sequence 1: AAGGTGGCCGGCCACCGTC | Target sequence 14: AATGTTTCCCTTGACCAGCT | Target sequence 29: AACTTCCAGGACCTGATGCAG |  |
+| Target sequence 2: AACAGCAGCCTCAGCAGCCGC | Target sequence 15: AAGCAGCTTCCAGCGCAGTCT | Target sequence 30: AACCAGAACTGGGAGCGTTAC |  |
+| Target sequence 3: AAGTGCTATCCTCGGAGGGCG | Target sequence 16: AAGCAGGGCAAACACAAGGTC | Target sequence 31: AACTGGGAGCGTTACCTGGCA |  |
+| Target sequence 4: AACCCATTTGGACATCCAGATG | Target sequence 17: AAACACAAGGTCCAGCCCCCCC | Target sequence 32: AAGAAGTCGTTGATGGATCTG |  |
+| Target sequence 5: AAATCTTCGGGCAAGGAGGGG | Target sequence 18: AAGGTCCAGCCCCCCCACAAAG | Target sequence 33: AAGTCGTTGATGGATCTGGCC |  |
+| Target sequence 6: AAGGAGGGGAGATGCCTGGCG | Target sequence 19: AAAGCAAGGCCAGAAAGTCCC | Target sequence 34: AATGATGCCTGCCAGCTGCTC |  |
+| Target sequence 7: AAGCACGGGCTCTGGGGGCAG | Target sequence 20: AAGGCCAGAAGTCCCAGAGGA | Target sequence 35: AAAGAAGACCCCTGGCTCTGG |  |
+| Target sequence 8: AACCTGGACCAGCACTTCCGC | Target sequence 21: AAGTCCCAGAGGAAAGCCAGA |  |
+| Target sequence 9: AAGCAGAGCCTGCCCTACCTG | Target sequence 22: AAAGCCAGAAGAGGCCAGCG |  |
+| Position in gene sequence: 1003 |  |  |
+```
+```markdown
+Table 1:
+
+| Position in gene sequence: 3092 | GC content: 47.6% | Sense strand siRNA: CUCACCAAAGGCUCCUUGGt t | Antisense strand siRNA: CCAAGGAGCCUUUGGUGAGt t |
+| --- | --- | --- | --- |
+| Position in gene sequence: 2623 | GC content: 42.9% | Sense strand siRNA: ACUGCAAGGAAGUCACAGUt t | Antisense strand siRNA: ACUGUGACUUCCUUGCAGUt t |
+| Target sequence 102: AAGGAAGTCACAGTGGAAGAA | Target sequence 115: AACCTCTTGACCAGGTGCATG | Position in gene sequence: 3682 | Target sequence 128: AAAGGCTCCTTGGA AAAACGA |
+| Position in gene sequence: 3099 | GC content: 52.4% | Sense strand siRNA: AGGCUCCUUGGAAAAACGAt t | Target sequence 129: AAAAACGAAGCCAGCCTGGAC |
+| Target sequence 89: AAGAGCTGTGGATTGCAGCTG | Position in gene sequence: 3469 | Sense strand siRNA: CCUCUUGACCAGGUGCAUGt t | Target sequence 130: AAACGAAGCCAGCCTGGACCA |
+| Position in gene sequence: 2681 | GC content: 42.9% | Sense strand siRNA: GGAAGUCACAGUGGAAGAAt t | Position in gene sequence: 3695 |
+| Target sequence 103: AAGTCACAGTGGAAGAAAGTGG | GC content: 52.4% | Sense strand siRNA: AAACGAAGCCAGCCUGGACt t | GC content: 57.1% |
+| Position in gene sequence: 3103 | Position in gene sequence: 3499 | Sense strand siRNA: GCUGGGUCUGAAUGACUUUGt t | Sense strand siRNA: ACGAAGCCAGCCUGGACCAAt t |
+| Target sequence 104: AAGGAAGTGGGAGGTGGTTGCT | GC content: 47.6% | Sense strand siRNA: GUCA CAGUGGAAGAAGUGGt t | Antisense strand siRNA: GUCCAGGCUGGCUUCGUUUtt |
+| Position in gene sequence: 2773 | Antisense strand siRNA: CAAGUCAUUCAGACCCAGCtt | Antisense strand siRNA: CCACUUUCU UCCACUGUGACtt | Target sequence 117: AATGACTTGCCCCAGTCAGTC |
+| Target sequence 90: AAGAGCAGGGGCACTGATCTA | Position in gene sequence: 3511 | Position in gene sequence: 3571 | Position in gene sequence: 3697 |
+| Position in gene sequence: 2800 | GC content: 52.4% | GC content: 42.9% | GC content: 57.1% |
+| Target sequence 118: AAGGAAGTGACCATGGATTGT | Position in gene sequence: 3575 | Sense strand siRNA: GGAA GUGACCAUGGAUUGUtt | Sense strand siRNA: ACGAAGCCAGCCUGGACCAAt t |
+| Position in gene sequence: 2839 | Antisense strand siRNA: ACAAUCCAUGGUCACUUCCtt | Antisense strand siRNA: ACAAUCCAUGGUCACUUCCtt | Antisense strand siRNA: UGGUCCAGGCUGGCUUCGUtt |
+| Target sequence 92: AAAATCTTCAACTACGGCCGC | Position in gene sequence: 3115 | Target sequence 119: AAGTGACCATGGATTGTAAAA | 64 |
+| Position in gene sequence: 2841 | Position in gene sequence: 3118 | Position in gene sequence: 3592 | 62 |
+| Target sequence 93: AATCTTCAACTACGGCCGCAT | GC content: 52.4% | GC content: 47.6% | Target sequence 121: AACCCCTTCCAACCCAACTGG |
+| Position in gene sequence: 2848 | GC content: 66.7% | Sense strand siRNA: AACC CCUUCCAACCCAACUUt t | Position in gene sequence: 3594 |
+| Target sequence 94: AACTACGGCCGCATCTATGGT | Antisense strand siRNA: UUUUACAAUCCAUGGUCACtt | GC content: 57.1% | GC content: 57.1% |
+| Position in gene sequence: 2848 | Position in gene sequence: 3148 | Sense strand siRNA: CC CCUUCCAACCCAACUGGtt | Sense strand siRNA: CCCCUUCCAACCCAACUGGtt |
+| Sense strand siRNA: CUACGGCCGCAUCUAUGGUtt | Antisense strand siRNA: UUCUGACUCUGUGCCCCCtt | Antisense strand siRNA: CCAGUUGGGUUGGAAGGGGtt | Antisense strand siRNA: CCAGUUGGGUUGGAAGGGGtt |
+| 58 | 60 | Target sequence 122: AACCCAACTGGGATGGAAAGG | Target sequence 123: AACTGGGATGGAAAGGAGATA |
+| Antisense strand siRNA: ACCAUAGAUGCGGCCGUAGt t | Target sequence 108: AAATGTTC AATAAGCTTGAGA | Position in gene sequence: 3604 | Position in gene sequence: 3609 |
+| Target sequence 95: AATGCAGTTTAACCACCGGCT | Position in gene sequence: 3167 | GC content: 52.4% | GC content: 42.9% |
+| Position in gene sequence: 2898 | GC content: 28.6% | Sense strand siRNA: CCCA ACUGGGAUGGAAAGGtt | Sense strand siRNA: CUGGGAUGGAAAGGAGAUAt t |
+| GC content: 47.6% | Sense strand siRNA: AUGUUCA AAAGCUUGAGAt t | Antisense strand siRNA: CCUUUCCAUCCCAGUUGGtt | Antisense strand siRNA: UAU CUCUUUCCAUCCCAGtt |
+| Antisense strand siRNA: AGCCGGUGGUUAAACUGCAt t | Antisense strand siRNA: UCUCAAGCUUAAUGAACAUt t | Target sequence 124: AAAGGAGATA CGGGAT TCCCC | Position in gene sequence: 3620 |
+| Target sequence 96: AACCACGGCTCACACAGCAG | Target sequence 109: AATAAGCTTGAGAGCATTGCT | GC content: 52.4% | GC content: 52.4% |
+| Position in gene sequence: 2908 | Position in gene sequence: 3175 | Sense strand siRNA: UUAGCUUGAGAGCAUUGCUtt | Sense strand siRNA: AGGAGAUACGGGAU UCCCtt |
+| GC content: 61.9% | Antisense strand siRNA: AGCAAUGCUCUCAAGCUUAt t | Antisense strand siRNA: GGGGAAUCCCGUAUCUCCUt t | Antisense strand siRNA: UCUGGUAAAUAUCCAGCGCtt |
+| Antisense strand siRNA: CUGCUGUGUGAGCCGGUGGtt | Target sequence 110: AAGCTTGAGAGCATTGCTACG | Target sequence 125: AAGCGCTGGATATTTACCAGA | Target sequence 126: AATTGAAC TCA CCAAAGGCTC |
+| Target sequence 97: AAGGCC CAGCAGATGTACGCT | Position in gene sequence: 3178 | Position in gene sequence: 3647 | Position in gene sequence: 3669 |
+| Position in gene sequence: 2941 | GC content: 47.6% | GC content: 42.9% | GC content: 42.9% |
+| GC content: 57.1% | Sense strand siRNA: GCUUGAGAGCAUUGCUACGtt | Sense strand siRNA: GC GCUUGGAUUUUACCAGAt t | Sense strand siRNA: UUGAACUCACCAAAGGCUt t |
+| Antisense strand siRNA: GGCCCAGCAGAUGUACGCUtt | Antisense strand siRNA: CGUAGCAAUGCUCUCAAGCtt | Antisense strand siRNA: GAGCCUUUGGUGAGUUCAAt t | Antisense strand siRNA: GAGCCUUUGGUGAGUUCAAt t |
+| Antisense strand siRNA: AGCGUACAUUCUGCUGGGCCtt | Target sequence 111: AAGAGTTTATGACCAGCCGTG | Target sequence 127: AACTCACCAAAGGCTCCTTGG | Position in gene sequence: 3674 |
+| Target sequence 98: AAGGGCCTCCGCTGGTATCGG | Position in gene sequence: 3269 | Position in gene sequence: 3669 | GC content: 52.4% |
+| Position in gene sequence: 2968 | GC content: 47.6% | GC content: 42.9% | Sense strand siRNA: UUGGGUGGUACAGAGCUCUt t |
+| GC content: 66.7% | Sense strand siRNA: GAGUUUAUGACCAGCCGUGt t | Antisense strand siRNA: CACGGCUGGUCAUAAACUtt | Antisense strand siRNA: UCUGGUAAAUAUCCAGCGCtt |
+| Antisense strand siRNA: CCGAUACCAGCGGAGGCCtt | Target sequence 112: AATTGGGTGGTACAGAGCTCT | Target sequence 128: AAAGGCTCCTTGGA AAAACGA | Target sequence 129: AAAACGAAGCCAGCCTGGAC |
+| Target sequence 99: AACCTCCCAGTGGACAGGACT | Position in gene sequence: 3292 | Position in gene sequence: 3682 | Position in gene sequence: 3695 |
+| Position in gene sequence: 3025 | GC content: 47.6% | GC content: 42.9% | GC content: 57.1% |
+| GC content: 57.1% | Sense strand siRNA: UUGGGUGGUACAGAGCUCUt t | Sense strand siRNA: GC GCUUGGAUUUUACCAGAt t | Antisense strand siRNA: UCGUUUUUCCAAGGAGCCUt t |
+| Antisense strand siRNA: AGGUCCUGUCCACUGGGAGGtt | Antisense strand siRNA: AGAGCUCUGUACCACCCCAAt t | Antisense strand siRNA: UCUGGUAAAUAUCCAGCGCtt | Target sequence 130: AAACGAAGCCAGCCTGGACCA |
+| Target sequence 100: AAGGTCCAGAGAGAAACTGCA | Target sequence 113: AAGTGGCTGTTTGAAAGAGTTT | Target sequence 116: AAGCTGGGTCTGAATGACTTG | Position in gene sequence: 3697 |
+| Position in gene sequence: 3079 | Position in gene sequence: 3349 | Position in gene sequence: 3511 | GC content: 57.1% |
+| GC content: 38.1% | GC content: 47.6% | GC content: 52.4% | Sense strand siRNA: ACGAAGCCAGCCUGGACCAAt t |
+| Sense strand siRNA: GGUCCAGAGAGAAACUGCAt t | Sense strand siRNA: GUGGCUGUUUGAAGAGUUUt t | Antisense strand siRNA: AAACUCUUCAACAGCCACtt | Antisense strand siRNA: UGGUCCAGGCUGGCUUCGUtt |
+| Antisense strand siRNA: UGCAGUUUCUCUCUGGACCtt | Target sequence 114: AAGAGTTTGCCATAGATGGGC | Target sequence 117: AATGACTTGCCCCAGTCAGTC | Position in gene sequence: 3571 |
+| Target sequence 101: AAACGTCAAGGAAGTCACAGT | Position in gene sequence: 3362 | Position in gene sequence: 3575 | GC content: 42.9% |
+| 59 | 61 | Position in gene sequence: 3592 | GC content: 47.6% |
+| 62 | 63 | GC content: 57.1% | Sense strand siRNA: ACGAAGCCAGCCUGGACCAAt t |
+| 64 | 65 | Antisense strand siRNA: UGGUCCAGGCUGGCUUCGUtt | Antisense strand siRNA: UGGUCCAGGCUGGCUUCGUtt |
+```
+```markdown
+Table 1: TMHMM result
+
+| Sequence | TMHMM2.0 | outside | 1 | 687 |
+| --- | --- | --- | --- | --- |
+| Sequence | TMHMM2.0 | TMhelix | 688 | 710 |
+| Sequence | TMHMM2.0 | inside | 711 | 771 |
+| Sequence | TMHMM2.0 | TMhelix | 772 | 794 |
+| Sequence | TMHMM2.0 | outside | 795 | 886 |
+| Sequence | TMHMM2.0 | TMhelix | 887 | 909 |
+| Sequence | TMHMM2.0 | inside | 910 | 929 |
+| Sequence | TMHMM2.0 | TMhelix | 930 | 952 |
+| Sequence | TMHMM2.0 | outside | 953 | 1017 |
+| Sequence | TMHMM2.0 | TMhelix | 1018 | 1040 |
+| Sequence | TMHMM2.0 | inside | 1041 | 1214 |
+```
+```markdown
+Table 1. Cancer-related transmembrane protein genes (CRTPGs)
+
+| Gene symbol | Locuslink. | cDNA sequence | Amino acid sequence |
+|-------------|------------|---------------|---------------------|
+| ABCC4       | 10257      | SEQ ID NO:1   | SEQ ID NO:16        |
+| C20orf103   | 24141      | SEQ ID NO:2   | SEQ ID NO:17        |
+| CACNA1D     | 776        | SEQ ID NO:3   | SEQ ID NO:18        |
+| CDH6        | 1004       | SEQ ID NO:4   | SEQ ID NO:19        |
+| CST         | 9514       | SEQ ID NO:5   | SEQ ID NO:20        |
+| ENPP3       | 5169       | SEQ ID NO:6   | SEQ ID NO:21        |
+| FLJ11856    | 79581      | SEQ ID NO:7   | SEQ ID NO:22        |
+| FOLH1       | 2346       | SEQ ID NO:8   | SEQ ID NO:23        |
+| GPR54       | 84634      | SEQ ID NO:9   | SEQ ID NO:24        |
+| HAVCR1      | 26762      | SEQ ID NO:10  | SEQ ID NO:25        |
+| OR51E2      | 81285      | SEQ ID NO:11  | SEQ ID NO:26        |
+| SLC6A3      | 6531       | SEQ ID NO:12  | SEQ ID NO:27        |
+| SLC30A4     | 7782       | SEQ ID NO:13  | SEQ ID NO:28        |
+| TRG@        | 6965       | SEQ ID NO:14  | SEQ ID NO:29        |
+| TRPM4       | 54795      | SEQ ID NO:15  | SEQ ID NO:30        |
+```
+```markdown
+Table 1: TMHMM result
+
+| # Sequence Length: 445 | # Sequence Number of predicted TMHs: 11 | # Sequence Exp number of AAs in TMHs: 243.12392 | # Sequence Exp number, first 60 AAs: 35.96186 | # Sequence Total prob of N-in: 0.96564 | # Sequence POSSIBLE N-term signal sequence |
+| --- | --- | --- | --- | --- | --- |
+| Sequence | TMHMM2.0 | inside | 1 | 8 |  |
+| Sequence | TMHMM2.0 | TMhelix | 9 | 31 |  |
+| Sequence | TMHMM2.0 | outside | 32 | 45 |  |
+| Sequence | TMHMM2.0 | TMhelix | 46 | 68 |  |
+| Sequence | TMHMM2.0 | inside | 69 | 80 |  |
+| Sequence | TMHMM2.0 | TMhelix | 81 | 103 |  |
+| Sequence | TMHMM2.0 | outside | 104 | 112 |  |
+| Sequence | TMHMM2.0 | TMhelix | 113 | 135 |  |
+| Sequence | TMHMM2.0 | inside | 136 | 146 |  |
+| Sequence | TMHMM2.0 | TMhelix | 147 | 169 |  |
+| Sequence | TMHMM2.0 | outside | 170 | 195 |  |
+| Sequence | TMHMM2.0 | TMhelix | 196 | 218 |  |
+| Sequence | TMHMM2.0 | inside | 219 | 275 |  |
+| Sequence | TMHMM2.0 | TMhelix | 276 | 298 |  |
+| Sequence | TMHMM2.0 | outside | 299 | 307 |  |
+| Sequence | TMHMM2.0 | TMhelix | 308 | 330 |  |
+| Sequence | TMHMM2.0 | inside | 331 | 336 |  |
+| Sequence | TMHMM2.0 | TMhelix | 337 | 359 |  |
+| Sequence | TMHMM2.0 | outside | 360 | 368 |  |
+| Sequence | TMHMM2.0 | TMhelix | 369 | 391 |  |
+| Sequence | TMHMM2.0 | inside | 392 | 403 |  |
+| Sequence | TMHMM2.0 | TMhelix | 404 | 426 |  |
+| Sequence | TMHMM2.0 | outside | 427 | 445 |  |
+```
+```markdown
+Table 1: TMHMM result
+
+| # Sequence Length: 620 | # Sequence Number of predicted TMHs: 12 | # Sequence Exp number of AAs in TMHs: 264.92255 | # Sequence Exp number, first 60 AAs: 0.00018 | # Sequence Total prob of N-in: 0.95438 |
+| --- | --- | --- | --- | --- |
+| Sequence | TMHMM2.0 | inside | 1 | 68 |
+| Sequence | TMHMM2.0 | TMhelix | 69 | 88 |
+| Sequence | TMHMM2.0 | outside | 89 | 97 |
+| Sequence | TMHMM2.0 | TMhelix | 98 | 120 |
+| Sequence | TMHMM2.0 | inside | 121 | 140 |
+| Sequence | TMHMM2.0 | TMhelix | 141 | 163 |
+| Sequence | TMHMM2.0 | outside | 164 | 237 |
+| Sequence | TMHMM2.0 | TMhelix | 238 | 256 |
+| Sequence | TMHMM2.0 | inside | 257 | 264 |
+| Sequence | TMHMM2.0 | TMhelix | 265 | 287 |
+| Sequence | TMHMM2.0 | outside | 288 | 310 |
+| Sequence | TMHMM2.0 | TMhelix | 311 | 333 |
+| Sequence | TMHMM2.0 | inside | 334 | 345 |
+| Sequence | TMHMM2.0 | TMhelix | 346 | 368 |
+| Sequence | TMHMM2.0 | outside | 369 | 397 |
+| Sequence | TMHMM2.0 | TMhelix | 398 | 420 |
+| Sequence | TMHMM2.0 | inside | 421 | 446 |
+| Sequence | TMHMM2.0 | TMhelix | 447 | 469 |
+| Sequence | TMHMM2.0 | outside | 470 | 478 |
+| Sequence | TMHMM2.0 | TMhelix | 479 | 501 |
+| Sequence | TMHMM2.0 | inside | 502 | 521 |
+| Sequence | TMHMM2.0 | TMhelix | 522 | 544 |
+| Sequence | TMHMM2.0 | outside | 545 | 558 |
+| Sequence | TMHMM2.0 | TMhelix | 559 | 578 |
+| Sequence | TMHMM2.0 | inside | 579 | 620 |
+```
+```markdown
+Table 1: TMHMM result
+
+| Sequence | TMHMM2.0 | inside | 1 | 113 |
+| --- | --- | --- | --- | --- |
+| Sequence | TMHMM2.0 | TMhelix | 114 | 136 |
+| Sequence | TMHMM2.0 | outside | 137 | 145 |
+| Sequence | TMHMM2.0 | TMhelix | 146 | 165 |
+| Sequence | TMHMM2.0 | inside | 166 | 177 |
+| Sequence | TMHMM2.0 | TMhelix | 178 | 200 |
+| Sequence | TMHMM2.0 | outside | 201 | 214 |
+| Sequence | TMHMM2.0 | TMhelix | 215 | 237 |
+| Sequence | TMHMM2.0 | inside | 238 | 272 |
+| Sequence | TMHMM2.0 | TMhelix | 273 | 295 |
+| Sequence | TMHMM2.0 | outside | 296 | 309 |
+| Sequence | TMHMM2.0 | TMhelix | 310 | 332 |
+| Sequence | TMHMM2.0 | inside | 333 | 429 |
+```
+```markdown
+Table 1: Adenovirus Gene Region and Protein
+
+| Adenovirus Gene Region | Protein | Ad SA18, SEQ ID NO:12 |
+|------------------------|---------|-----------------------|
+| 2a                     | DBP     | 23147 21711 53626     |
+| L4                     | 100kD   | 23175 25541 87538     |
+|                        | 22kD homolog | 25204 25797 22206     |
+|                        | 33kD homolog | 25204 26025 24263     |
+|                        | VIII    | 26107 26817 25490     |
+| E3                     | Orf#1   | 26817 27125 11814     |
+| L5                     | Fiber   | 27192 29015 65455     |
+| E4                     | Orf 6/7 | 30169 29067 13768     |
+|                        | Orf 6   | 30169 29303 33832     |
+|                        | Orf 4   | 30464 30099 14154     |
+|                        | Orf 3   | 30816 30466 13493     |
+|                        | Orf 2   | 31205 30813 14698     |
+|                        | Orf 1   | 31608 31231 14054     |
+| ITR                    |         | 31788 31967           |
+```
+```markdown
+## TABLE 1
+Summary of sequence identifiers
+
+| SEQUENCE ID NO. | DESCRIPTION |
+|-----------------|-------------|
+| 1               | nucleotide sequence of human p53 with 3' and 5' untranslated ends |
+| 2               | amino acid sequence of human of p53 |
+| 3               | nucleotide sequence of coding region of human p53 |
+| 4               | NS 11584 primer |
+| 5               | NS 12403 primer |
+| 6               | Hp53 Ex-2-forward primer |
+| 7               | Hp53 Ex-11 reverse primer |
+| 8               | p53(400) primer |
+| 9               | p53(600) primer |
+| 10              | p53(800) primer |
+```
+```markdown
+Table 1. Crystallographic Data Statistics. β-OG, N-Octyl-β-D-Glucoside
+
+| Data collection and structure solution | Native1 | Native2 | Me3PbAc | K2PtCl4 | YbSO4 | AuCN | Native3 | Native4 |
+|----------------------------------------|---------|---------|---------|---------|-------|------|---------|---------|
+| Dataset                                | 17      | 17      | 17      | 17      | 17    | 17   | 17     | 0       |
+| Conc. βOG (mM)                        | 50-2.4  | 30-2.47 | 30-2.8  | 30-2.8  | 30-2.8| 30-2.8| 50-2.75| 50-3.0  |
+| Resolution range (Å)                  | 81.6/287.4| 81.2/286.6| 81.3/286.8| 81.1/286.9| 81.2/286.5| 81.5/285.5| 74.6/144.7| 74.6/144.7|
+| Cell edges a(=b)/c                     | 97 (74) | 92 (45) | 99 (98) | 97 (99) | 99 (97) | 90 (49) | 96 (82) | 96 (82) |
+| % completeness<sup>1</sup>             | 26.2 (3.3)| 15.1 (1.8)| 17.3 (4.0)| 15.5 (2.7)| 11.9 (6.2)| 21.7 (2.5)| 13.6 (2.0)| 13.6 (2.0)|
+| I/σ<sup>1</sup>                        | 6.9 (28.9)| 6.1 (26.8)| 6.0 (27.4)| 8.2 (31.1)| 7.4 (39.2)| 5.3 (7.7)| 7.9 (40.9)| 8.4 (47.6)|
+| R<sup>merge</sup><sup>2</sup> (%)     | 2        | 1        | 2        | 1        | 2      | 2     | 2       | 2        |
+| Number of sites                        | 0.85/1.3 | 0.43/0.52| 0.25/0.49| 0.36/0.54| 0.43/0.52| 0.25/0.49| 0.36/0.54| 0.36/0.54|
+| Phasing power<sup>3</sup> (centric/acentric) (Sharp) | 0.57     | 0.67     | 0.57     | 0.67     | 0.57     | 0.67     | 0.57     | 0.57     |
+| Phasing power<sup>3</sup> (anomalous) (Sharp) | 0.68/0.24| 0.67     | 0.68/0.24| 0.67     | 0.68/0.24| 0.67     | 0.68/0.24| 0.67     |
+| FOM<sup>4</sup> centric (CNS/Sharp)     | 0.34/0.24| 0.34/0.24| 0.34/0.24| 0.34/0.24| 0.34/0.24| 0.34/0.24| 0.34/0.24| 0.34/0.24|
+| FOM<sup>4</sup> acentric (CNS/Sharp)    | 0.34/0.24| 0.34/0.24| 0.34/0.24| 0.34/0.24| 0.34/0.24| 0.34/0.24| 0.34/0.24| 0.34/0.24|
+```
+```markdown
+Table 2
+
+| AP code | Compound | Lot number | Pt release (% at 24 h) | TGI Dose (mg Pt/kg) | Mean max BWL (%) | Toxic deaths | Relative TGI* |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 5184 | p(HPMA)-Ama=Pt=DACH | EHC-139-154R | 23.8 | 20 | -21.6 | 6/10 | + |
+| 5286 | p(HPMA)-GFLG-Ama-Pt=DACH | EHC-139-165R | 2.6 | 25 | -6.5 | 0/10 | + |
+| 5296 | p(HPMA)-GG-Ama-Pt=DACH (High MW) | EHC-139-178R | 6.2 | 5 | -22.1 | 8/8 | ++ |
+| 5302 | p(HPMA)-GFLG-Asp=Pt=DACH | EHC-139-191R | 5.4 | 20 | -12.0 | 1/10 | +++ |
+| 5306 | p(HPMA)-GG-Ama-Pt=DACH (Low MW) | JAT-182-48R | 5.5 | 9 | -6.3 | 3/10 | + |
+| 5310 | p(HPMA)-GG-Asp=Pt=DACH | JAT-182-52R | 10.6 | 5.5 | -9.4 | 1/10 | ++ |
+| 5314 | p(HPMA)-GG-C3-Sulf-Ama=Pt=DACH | JAT-182-104R | 1.9 | 75 | -30.2 | 10/10 | ++ |
+| 5318 | p(HPMA)-GG-C3-Sulf-Asp=Pt=DACH | TFF-186-1R | 4.3 | 50 | -26.7 | 8/10 | ++ |
+| 5322 | p(HPMA)-GFLG-C3-Sulf-Ama=Pt=DACH | JAT-182-59R | 4.5 | 25 | -4.3 | 1/10 | + |
+| 5326 | p(HPMA)-GFLG-C3-Sulf-Asp=Pt=DACH | TFF-186-5R | 4.6 | 50 | -30.2 | 7/9 | ++ |
+| 5330 | p(HPMA)-GGG-Ama=Pt=DACH | JAT-182-88R | 3.2 | 50 | -27.3 | 7/9 | ++ |
+| 5334 | p(HPMA)-GGGG-Asp=Pt=DACH | JAT-182-97R | 6.3 | 20 | -28.1 | 3/9 | +++ |
+| 5346 | p(HPMA)-GGG-Ama=Pt=DACH | JAT-186-9R | 3.6 | 20 | -8.0 | 0/9 | +++ |
+```
+```markdown
+Table II Physical Properties of Alkanediols Used in this Study
+
+| Compound | <sup>1</sup>Boiling Point (°C) | <sup>1</sup>Melting Point (°C) | <sup>1</sup>Flash Point (°C) | <sup>2</sup>Explosion limits, air | <sup>2</sup>Autoignition (°C) |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  | Lower | Upper |
+| 1,2-hexanediol | 223 | NA | 122 | NA | NA |
+| 1,6-hexanediol | 250 | 45 | 147 | 6.6% | 16% |
+| 1,5-pentanediol | 242 | -16 | 129 | 1.4% | 13.2% |
+| 1,2-butanediol | 194 | -50 | 93 | 2.4% | 13.5% |
+| 1,4-butanediol | 230 | 16 | 121 | 1.95% | 18.3% |
+| 1,3-propanediol | 214 | -27 | 131 | NA | NA |
+| 1,2-ethanediol | 195 | -13 | 111 | 3.2% | 15.3% |
+| Ethanol | 78.3 | -114.1 | 12 | 3.3% | 19% |
+| Isopropanol | 82.4 | -88.5 | 12 | 2.5% | 12% |
+```

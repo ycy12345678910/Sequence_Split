@@ -1,0 +1,10 @@
+yl,SMILES
+hexyl,CCCCCC[37Cl]
+heptyl,CCCCCCC[37Cl]
+octanoyl,CCCCCCCC([37Cl])=O
+n-octanoyl,CCCCCCCC([37Cl])=O
+biotinyl,O=C1N[C@@]([H])([C@]([H])(CS2)N1)[C@@H]2CCCCC([37Cl])=O
+myristyl,CCCCCCCCCCCCCC[37Cl]
+Methyl,C[37Cl]
+2-(2-(2-(4-(Hexadecanoylamino)-4(S)-carboxybutyrylamino)ethoxy)ethoxy)acetyl,O=C([37Cl])COCCOCCNC(CC[C@H](NC(CCCCCCCCCCCCCCC)=O)C(O)=O)=O
+1-heptanol,CCCCCCCO[37Cl]

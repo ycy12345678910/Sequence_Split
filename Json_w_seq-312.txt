@@ -1,0 +1,17 @@
+page: ['91']
+file: WO2005000875-PAMPH-20050106-8018.pdf
+| SEQ ID NO | Peptide (name and sequence) | Mean EC50 |  |
+| --- | --- | --- | --- |
+| 61 | Human Chemerin-9 YFPGQFAFS | 7±0.25nM |  |
+| 62 | Human Chemerin-10 FYFPGQFAFS | 8.2±2nM |  |
+| 63 | Human Chemerin-12 HSFYFPGQFAFS | 12.2±3.4nM |  |
+| 64 | Human Chemerin-13 PHSFYFPGQFAFS | 14nM |  |
+| 65 | Human[Ala-1] Chemerin-9 AFPGQFAFS | 496±80nM |  |
+| 66 | Human[Ala-2] Chemerin-9 YAPGQFAFS | 155.3±41.6nM |  |
+| 67 | Human[Ala-3] Chemerin-9 YFAGQFAFS | 42.5±7.5nM |  |
+| 68 | Human[Ala-5] Chemerin-9 YFPGAFAFS | 35.8±5.9nM |  |
+| 69 | Human[Ala-6] Chemerin-9 YFPGQAAFS | 5±1µM |  |
+| 70 | Human[Ala-8] Chemerin-9 YFPGQFAAS | 38±7µM |  |
+| 71 | Human[Ala-9] Chemerin-9 YFPGQFAFA | 48.3±5.7nM |  |
+
+Table title: Example 16
